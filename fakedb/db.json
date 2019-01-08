@@ -2,13 +2,13 @@
   "properties": [
     {
       "id": "6",
-      "PropName": "Hullet Rise",
-      "PropType": "Residental",
-      "Description": {
-        "PropDescShort": "A 16-storey apartment block.",
-        "PropDescLong": "<div class='box'> <h4>Description</h4> A 16-storey apartment block comprising 1, 1+1, 2 and 3+1 bedroom apartments with areas of approximately 800 sq.ft. - 1,300 sq.ft. <br/> <br/> Situated in the heart of Orchard Road's shopping and entertainment belt, it is within walking distance to the Somerset MRT station. </div>",
-        "RentalAvailability": {
-          "title": "Availability",
+      "name": "Hullet Rise",
+      "category": "Residental",
+      "description": {
+        "descriptionShort": "A 16-storey apartment block.",
+        "descriptionLong": "<div class='box'> <h4>description</h4> A 16-storey apartment block comprising 1, 1+1, 2 and 3+1 bedroom apartments with areas of approximately 800 sq.ft. - 1,300 sq.ft. <br/> <br/> Situated in the heart of Orchard Road's shopping and entertainment belt, it is within walking distance to the Somerset MRT station. </div>",
+        "availability": {
+          "title": "availability",
           "items": [
             {
               "unit": "#02-04",
@@ -90,7 +90,7 @@
             }
           ]
         },
-        "Facilities": [
+        "facilities": [
           {
             "item": "Swimming Pool"
           },
@@ -104,12 +104,12 @@
             "item": "Basement car parking"
           }
         ],
-        "NearestMRT": [
+        "nearestMRT": [
           {
             "item": "Somerset MRT Station"
           }
         ],
-        "NearestSchools": [
+        "nearestSchools": [
           {
             "item": "Chatsworth International School (Orchard Campus)"
           },
@@ -117,7 +117,7 @@
             "item": "Anglo-Chinese School (Junior)"
           }
         ],
-        "Contacts": [
+        "contacts": [
           {
             "name": "Ms. Lee WenQiao",
             "extension": "258",
@@ -145,42 +145,42 @@
           }
         ]
       },
-      "PropPostalAdd": "6 Hullet Road, Singapore 229159",
-      "PropLocationMap": "mapHulletRise.gif",
-      "PropDirectBus": "7, 14, 16, 65, 106, 111, 123, 502, 65M, NR1, NR2, NR3, NR5, NR6, NR7, NR8, C1",
-      "PropDirectMrt": "Somerset",
-      "SmallImage": "HulletRise web pix.jpg",
-      "CompanyName": "SB Apartments Pte Ltd/ SHaw Realty (Singapore) Pte Ltd",
-      "ShawMgtInd": "1",
-      "Status": "I",
-      "Gallery": [
+      "postalAddress": "6 Hullet Road, Singapore 229159",
+      "imageMap": "mapHulletRise.gif",
+      "directBus": "7, 14, 16, 65, 106, 111, 123, 502, 65M, NR1, NR2, NR3, NR5, NR6, NR7, NR8, C1",
+      "directMrt": "Somerset",
+      "featuredImage": "HulletRise web pix.jpg",
+      "companyName": "SB Apartments Pte Ltd/ SHaw Realty (Singapore) Pte Ltd",
+      "shawMgtInd": "1",
+      "active": false,
+      "gallery": [
         {
-          "ScreenNo": "1",
-          "DispPriority": "1",
-          "ScreenImage": "PIC00025 .JPG",
-          "ScreenDesc": "Building"
+          "screenNo": "1",
+          "displayPriority": "1",
+          "screenImage": "PIC00025 .JPG",
+          "screenDesc": "Building"
         },
         {
-          "ScreenNo": "2",
-          "DispPriority": "2",
-          "ScreenImage": "PIC00030.jpg",
-          "ScreenDesc": "Pool"
+          "screenNo": "2",
+          "displayPriority": "2",
+          "screenImage": "PIC00030.jpg",
+          "screenDesc": "Pool"
         },
         {
-          "ScreenNo": "3",
-          "DispPriority": "3",
-          "ScreenImage": "PIC00029.JPG",
-          "ScreenDesc": "Gym"
+          "screenNo": "3",
+          "displayPriority": "3",
+          "screenImage": "PIC00029.JPG",
+          "screenDesc": "Gym"
         }
       ]
     },
     {
       "id": "33",
-      "PropName": "40 Andrew Road",
-      "PropType": "Residental",
-      "Description": {
-        "PropDescShort": "Each property is a 2-storey detached house with in-ground swimming pool, car porch and landscaping.  ",
-        "ApproximateArea": [
+      "name": "40 Andrew Road",
+      "category": "Residental",
+      "description": {
+        "descriptionShort": "Each property is a 2-storey detached house with in-ground swimming pool, car porch and landscaping.  ",
+        "approximateArea": [
           {
             "item": "Land - 17,177 sq.ft."
           },
@@ -188,12 +188,12 @@
             "item": "Built-In - 5,544 sq.ft."
           }
         ],
-        "AskingRental": [
+        "askingRental": [
           {
             "item": "S$18,000.00 per house per month on partially furnished basis."
           }
         ],
-        "PropertyAvailability": [
+        "availability": [
           {
             "item": "Vacant"
           },
@@ -201,7 +201,7 @@
             "item": "Viewing by prior appointment only"
           }
         ],
-        "Accommodation": [
+        "accommodation": [
           {
             "item": "Entrance lobby with shoe cupboard"
           },
@@ -233,7 +233,7 @@
             "item": "Yard"
           }
         ],
-        "Maintenances": [
+        "maintenances": [
           {
             "item": "Air-conditioning System"
           },
@@ -250,7 +250,7 @@
             "item": "Pest Control"
           }
         ],
-        "Contacts": [
+        "contacts": [
           {
             "name": "Ms. Lee WenQiao",
             "extension": "258",
@@ -278,65 +278,65 @@
           }
         ]
       },
-      "PropPostalAdd": "Andrew Road, Singapore",
-      "PropLocationMap": "",
-      "SmallImage": "40-AR.jpg",
-      "CompanyName": "Shaw & Sons (Singapore) Pte Ltd",
-      "ShawMgtInd": "1",
-      "Status": "I",
-      "Gallery": [
+      "postalAddress": "Andrew Road, Singapore",
+      "imageMap": "",
+      "featuredImage": "40-AR.jpg",
+      "companyName": "Shaw & Sons (Singapore) Pte Ltd",
+      "shawMgtInd": "1",
+      "active": false,
+      "gallery": [
         {
-          "ScreenNo": "1",
-          "DispPriority": "1",
-          "ScreenImage": "40-AR.jpg",
-          "ScreenDesc": "Car Porch"
+          "screenNo": "1",
+          "displayPriority": "1",
+          "screenImage": "40-AR.jpg",
+          "screenDesc": "Car Porch"
         },
         {
-          "ScreenNo": "2",
-          "DispPriority": "2",
-          "ScreenImage": "40-AR-swimmingpool.jpg",
-          "ScreenDesc": "Swimming Pool"
+          "screenNo": "2",
+          "displayPriority": "2",
+          "screenImage": "40-AR-swimmingpool.jpg",
+          "screenDesc": "Swimming Pool"
         },
         {
-          "ScreenNo": "3",
-          "DispPriority": "3",
-          "ScreenImage": "40-AR-landscape.jpg",
-          "ScreenDesc": "Landscape"
+          "screenNo": "3",
+          "displayPriority": "3",
+          "screenImage": "40-AR-landscape.jpg",
+          "screenDesc": "Landscape"
         },
         {
-          "ScreenNo": "4",
-          "DispPriority": "4",
-          "ScreenImage": "40-AR-master-bedroom.jpg",
-          "ScreenDesc": "Master Bedroom"
+          "screenNo": "4",
+          "displayPriority": "4",
+          "screenImage": "40-AR-master-bedroom.jpg",
+          "screenDesc": "Master Bedroom"
         },
         {
-          "ScreenNo": "5",
-          "DispPriority": "5",
-          "ScreenImage": "40-AR-master-bedroom-study-area.jpg",
-          "ScreenDesc": "Master Bedroom - Study Area"
+          "screenNo": "5",
+          "displayPriority": "5",
+          "screenImage": "40-AR-master-bedroom-study-area.jpg",
+          "screenDesc": "Master Bedroom - Study Area"
         },
         {
-          "ScreenNo": "6",
-          "DispPriority": "6",
-          "ScreenImage": "40-AR-master-bedroom-bathroom.jpg",
-          "ScreenDesc": "Master Bedroom - Bathroom"
+          "screenNo": "6",
+          "displayPriority": "6",
+          "screenImage": "40-AR-master-bedroom-bathroom.jpg",
+          "screenDesc": "Master Bedroom - Bathroom"
         },
         {
-          "ScreenNo": "7",
-          "DispPriority": "7",
-          "ScreenImage": "40-AR-kitchen.jpg",
-          "ScreenDesc": "Kitchen"
+          "screenNo": "7",
+          "displayPriority": "7",
+          "screenImage": "40-AR-kitchen.jpg",
+          "screenDesc": "Kitchen"
         }
       ]
     },
     {
       "id": "4",
-      "PropName": "Shaw Plaza",
-      "PropType": "Commercial",
-      "Description": {
-        "PropDescShort": "A modern 5-storey shopping mall with a 2-storey annexe block.",
-        "PropDescLong": "",
-        "LeasingAvailable": {
+      "name": "Shaw Plaza",
+      "category": "Commercial",
+      "description": {
+        "descriptionShort": "A modern 5-storey shopping mall with a 2-storey annexe block.",
+        "descriptionLong": "",
+        "leasingAvailable": {
           "title": "Property Available For Lease",
           "items": [
             {
@@ -405,7 +405,7 @@
             }
           ]
         },
-        "NearestSchools": [
+        "nearestSchools": [
           {
             "item": "Global Indian International School Balestier Campus"
           },
@@ -413,7 +413,7 @@
             "item": "Balestier Hill Secondary School"
           }
         ],
-        "Amenities": [
+        "amenities": [
           {
             "item": "Good car parking facilities"
           },
@@ -421,7 +421,7 @@
             "item": "Easy access to City/ CTE/ PIE"
           }
         ],
-        "Contacts": [
+        "contacts": [
           {
             "name": "Ms. Lee WenQiao",
             "extension": "258",
@@ -442,406 +442,406 @@
             "extension": "277",
             "transaction": "400ms"
           }
+        ],
+        "postalAddress": "360 Balestier Road, Singapore 329783",
+        "imageMap": "mapShawPlaza.gif",
+        "googleMap": {
+          "lat": "1.325044",
+          "lng": "103.851336"
+        },
+        "directBus": "21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>",
+        "directMrt": "Novena (nearest)",
+        "featuredImage": "shaw-plaza-web.jpg",
+        "companyName": "Shaw Properties (1997) Pte Ltd",
+        "shawMgtInd": "1",
+        "active": true,
+        "tenants": [
+          {
+            "unitId": "4",
+            "unitNo": "#01-01/02",
+            "propertyId": "4",
+            "tenantId": "13",
+            "tenantContactNo": "+65 6352 8150/ +65 6352 7139<br>",
+            "tenantFaxNo": "+65 6459 9837",
+            "tenantEmailAdd": "tagore@pacific.net.sg",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Thomson Lighting Pte Ltd",
+            "tradeName": "Thomson Lighting",
+            "featuredImage": ""
+          },
+          {
+            "unitId": "5",
+            "unitNo": "#01-03",
+            "propertyId": "4",
+            "tenantId": "171",
+            "tenantContactNo": "+65 6352 0130",
+            "tenantFaxNo": "+65 6352 0130",
+            "tenantEmailAdd": "shawplaza@petlovers.com.sg",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Pet Lovers Centre Pte Ltd",
+            "tradeName": "Pet Lovers Centre",
+            "tenantWebsiteUrl": "http://www.petloverscentre.com/",
+            "featuredImage": "PLC Logo for Shaw.jpg"
+          },
+          {
+            "unitId": "6",
+            "unitNo": "#01-04",
+            "propertyId": "4",
+            "tenantId": "216",
+            "tenantContactNo": "+65 6356 5995",
+            "tenantFaxNo": "+65 6356 5775",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Weiting Enterprises",
+            "tradeName": "Weiting Enterprises",
+            "featuredImage": ""
+          },
+          {
+            "unitId": "7",
+            "unitNo": "#01-04A/ 05",
+            "propertyId": "4",
+            "tenantId": "8",
+            "tenantContactNo": "+65 6258 3960",
+            "tenantFaxNo": "+65 6258 3960",
+            "tenantEmailAdd": "sales@sportslink.com.sg",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Sports Link Holdings Pte Ltd",
+            "tradeName": "Sports Link",
+            "tenantWebsiteUrl": "http://www.sportslink.com.sg",
+            "featuredImage": "sportslink.jpg"
+          },
+          {
+            "unitId": "8",
+            "unitNo": "#01-06",
+            "propertyId": "4",
+            "tenantId": "324",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Simple Nails",
+            "tradeName": "Simple Nails"
+          },
+          {
+            "unitId": "9",
+            "unitNo": "#01-07",
+            "propertyId": "4",
+            "tenantContactNo": "+65 6553 1088",
+            "tenantFaxNo": "+65 6258 1182",
+            "occupancyDesc": "Unit size approximately 377 sq.ft. Asking Gross Rent $10.50 psf/mth.",
+            "occupancyStatus": "V",
+            "active": true
+          },
+          {
+            "unitId": "10",
+            "unitNo": "#01-08",
+            "propertyId": "4",
+            "tenantId": "11",
+            "tenantContactNo": "+65 6354 2620",
+            "tenantFaxNo": "+65 6354 2620",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Polycare Optometrist",
+            "tradeName": "Polycare Optometrist",
+            "featuredImage": "polycare-logo.jpg"
+          },
+          {
+            "unitId": "11",
+            "unitNo": "#01-09",
+            "propertyId": "4",
+            "tenantEmailAdd": "feedback@guardian.com.sg",
+            "occupancyDesc": "Unit size approximately 893 sq.ft.. Asking Gross Rent $10.50 psf/mth",
+            "occupancyStatus": "V",
+            "active": true
+          },
+          {
+            "unitId": "12",
+            "unitNo": "#01-10/ 11",
+            "propertyId": "4",
+            "tenantId": "1",
+            "tenantContactNo": "+65 6251 4303",
+            "tenantEmailAdd": "BLS@sg.mcd.com",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "McDonald's Resturants Pte Ltd (Shaw Plz)",
+            "tradeName": "McDonald's",
+            "tenantWebsiteUrl": "http://www.mcd.com.sg",
+            "featuredImage": "MCD-log.jpg"
+          },
+          {
+            "unitId": "14",
+            "unitNo": "#01-13",
+            "propertyId": "4",
+            "tenantId": "14",
+            "tenantContactNo": "+65 6258 1629",
+            "tenantFaxNo": "+65 6291 7016",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Kentucky Fried Chicken Management Pte Ltd (Shaw Plz)",
+            "tradeName": "KFC",
+            "tenantWebsiteUrl": "http://www.kfc.com.sg",
+            "featuredImage": "KFC.jpg"
+          },
+          {
+            "unitId": "15",
+            "unitNo": "#01-14/ 15",
+            "propertyId": "4",
+            "tenantId": "15",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "OCBC Bank (Shaw Plaza)",
+            "tradeName": "OCBC",
+            "tenantWebsiteUrl": "http://www.ocbc.com.sg",
+            "featuredImage": "OCBC-logo.jpg"
+          },
+          {
+            "unitId": "16",
+            "unitNo": "#02-01 to 15",
+            "propertyId": "4",
+            "tenantId": "50",
+            "tenantContactNo": "+65 62561121",
+            "tenantFaxNo": "+65 62583946",
+            "tenantEmailAdd": "admin@novenaholdings.com",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Novena Furnishing Centre Pte Ltd (Shaw Plaza) - The White",
+            "tradeName": "The White",
+            "tenantWebsiteUrl": "http://www.novenaholdings.com",
+            "featuredImage": "the-white-logo.jpg"
+          },
+          {
+            "unitId": "69",
+            "unitNo": "#02-01 to 15",
+            "propertyId": "4",
+            "tenantId": "16",
+            "tenantContactNo": "+65 6256 9969",
+            "tenantFaxNo": "+65 6258 5644",
+            "tenantEmailAdd": "admin@novenaholdings.com",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Novena Furnishing Centre Pte Ltd (Shaw Plaza) - Novena",
+            "tradeName": "Novena",
+            "tenantWebsiteUrl": "http://www.novenaholdings.com",
+            "featuredImage": "Novena-logo.jpg"
+          },
+          {
+            "unitId": "17",
+            "unitNo": "#02-16",
+            "propertyId": "4",
+            "tenantId": "17",
+            "tenantContactNo": "+65 63583353/ +65 63583363<br>",
+            "tenantFaxNo": "+65 63583017",
+            "tenantEmailAdd": "lclighting@pacific.net.sg",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "LC Lighting Centre Pte Ltd",
+            "tradeName": "LC Lighting Centre",
+            "featuredImage": "LC-logo-02.jpg"
+          },
+          {
+            "unitId": "18",
+            "unitNo": "#03-01",
+            "propertyId": "4",
+            "tenantId": "245",
+            "tenantContactNo": "+65 6255 5021",
+            "tenantFaxNo": "+65 6255 0210",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Piuttosto gallery Pte Ltd",
+            "tradeName": "Piuttosto gallery Pte Ltd",
+            "featuredImage": ""
+          },
+          {
+            "unitId": "19",
+            "unitNo": "#03-02/ 03",
+            "propertyId": "4",
+            "tenantId": "301",
+            "tenantContactNo": "+65 6255 5021",
+            "tenantFaxNo": "+65 6255 0210",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Piuttosto gallery Pte Ltd",
+            "tradeName": "Piuttosto gallery Pte Ltd",
+            "featuredImage": ""
+          },
+          {
+            "unitId": "20",
+            "unitNo": "#03-04 & 07",
+            "propertyId": "4",
+            "tenantId": "20",
+            "tenantContactNo": "+65 62581334",
+            "tenantFaxNo": "+65 62581744",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Advent Learing Pte Ltd",
+            "tradeName": "Advent Learning",
+            "tenantWebsiteUrl": "http://www.adventlearning.com.sg",
+            "featuredImage": "Advert-logo.jpg"
+          },
+          {
+            "unitId": "21",
+            "unitNo": "#03-05/ 06",
+            "propertyId": "4",
+            "tenantContactNo": "+65 62591358",
+            "occupancyDesc": "Unit size approximately 1,421 sq.ft. Asking Gross Rent $5.50 psf/mth. Open concept unit.  Suitable for gallery/ show room.",
+            "occupancyStatus": "V",
+            "active": true
+          },
+          {
+            "unitId": "22",
+            "unitNo": "#03-08",
+            "propertyId": "4",
+            "tenantId": "22",
+            "tenantContactNo": "+65 62500596",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Wen Ya Beauty & Health Centre",
+            "tradeName": "Wen Ya Beauty & Health Centre",
+            "featuredImage": ""
+          },
+          {
+            "unitId": "23",
+            "unitNo": "#03-09",
+            "propertyId": "4",
+            "tenantId": "251",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Vince Music Art Studio",
+            "tradeName": "Vince Music Art Studio",
+            "featuredImage": ""
+          },
+          {
+            "unitId": "24",
+            "unitNo": "#03-10",
+            "propertyId": "4",
+            "tenantId": "312",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Acu Point Pte Ltd",
+            "tradeName": "Acu Point Pte Ltd"
+          },
+          {
+            "unitId": "25",
+            "unitNo": "#03-11",
+            "propertyId": "4",
+            "tenantId": "312",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Acu Point Pte Ltd",
+            "tradeName": "Acu Point Pte Ltd"
+          },
+          {
+            "unitId": "26",
+            "unitNo": "#03-12",
+            "propertyId": "4",
+            "tenantId": "26",
+            "tenantContactNo": "+65 63533733",
+            "tenantFaxNo": "+65 67779197",
+            "tenantEmailAdd": "rr6262@singnet.com.sg",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "R&R Express Services Pte Ltd",
+            "tradeName": "FabricPro",
+            "featuredImage": "fabricpro-logo.jpg"
+          },
+          {
+            "unitId": "27",
+            "unitNo": "#03-13",
+            "propertyId": "4",
+            "tenantId": "27",
+            "tenantContactNo": "+65 62502260/ +65 62507079<br>",
+            "tenantFaxNo": "+65 62501289",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Bronz",
+            "tradeName": "Bronz",
+            "featuredImage": "salon-logo.jpg"
+          },
+          {
+            "unitId": "28",
+            "unitNo": "#03-14",
+            "propertyId": "4",
+            "tenantId": "313",
+            "tenantContactNo": "+65 6255 5021",
+            "tenantFaxNo": "+65 6255 0210",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Piuttosto gallery Pte Ltd",
+            "tradeName": "Piuttosto gallery Pte Ltd"
+          },
+          {
+            "unitId": "29",
+            "unitNo": "#04-01",
+            "propertyId": "4",
+            "occupancyDesc": "Unit size approximately 7,201 sq.ft. Asking Gross Rent $3.90 psf/mth. Suitable for F&B space, Possible for other trade.",
+            "occupancyStatus": "V",
+            "active": true
+          },
+          {
+            "unitId": "68",
+            "unitNo": "#04-02",
+            "propertyId": "4",
+            "tenantId": "30",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Shaw Concession Pte Ltd",
+            "tradeName": "Movie Bites",
+            "tenantWebsiteUrl": "http://www.shaw.sg",
+            "featuredImage": "moviebites-logo.jpg"
+          },
+          {
+            "unitId": "30",
+            "unitNo": "#04-03/04",
+            "propertyId": "4",
+            "tenantId": "31",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Shaw Theatres Pte Ltd",
+            "tradeName": "Shaw Theatres",
+            "tenantWebsiteUrl": "http://www.shaw.sg",
+            "featuredImage": "SB logo.jpg"
+          },
+          {
+            "unitId": "1",
+            "unitNo": "#B1 & #B2",
+            "propertyId": "4",
+            "tenantId": "2",
+            "tenantContactNo": "+65 6411 5511",
+            "tenantFaxNo": "+65 6296 1492",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "Wilson Parking (S) Pte Ltd",
+            "tradeName": "Wilson Parking",
+            "tenantWebsiteUrl": "http://www.wilsonparking.com.sg",
+            "featuredImage": "Wilson-Parking.jpg"
+          },
+          {
+            "unitId": "2",
+            "unitNo": "#B1-01",
+            "propertyId": "4",
+            "tenantId": "3",
+            "tenantContactNo": "+65 6352 0850",
+            "tenantFaxNo": "+65 6352 0849",
+            "tenantEmailAdd": "general.feedback@fairprice.com.sg",
+            "occupancyStatus": "N",
+            "active": true,
+            "tenantName": "NTUC Fairprice Co-operative Ltd",
+            "tradeName": "NTUC Fairprice",
+            "tenantWebsiteUrl": "http://www.fairprice.com.sg",
+            "featuredImage": "NTUC-logo.jpg"
+          }
         ]
-      },
-      "PropPostalAdd": "360 Balestier Road, Singapore 329783",
-      "PropLocationMap": "mapShawPlaza.gif",
-      "PropLocationGoogleMap": {
-        "lat": "1.325044",
-        "lng": "103.851336"
-      },
-      "PropDirectBus": "21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>",
-      "PropDirectMrt": "Novena (nearest)",
-      "SmallImage": "shaw-retail web pix.jpg",
-      "CompanyName": "Shaw Properties (1997) Pte Ltd",
-      "ShawMgtInd": "1",
-      "Status": "A",
-      "TenantList": [
-        {
-          "UnitID": "4",
-          "UnitNo": "#01-01/02",
-          "PropID": "4",
-          "TenantID": "13",
-          "TenantContactNo": "+65 6352 8150/ +65 6352 7139<br>",
-          "TenantFaxNo": "+65 6459 9837",
-          "TenantEmailAdd": "tagore@pacific.net.sg",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Thomson Lighting Pte Ltd",
-          "TradeName": "Thomson Lighting",
-          "SmallImage": ""
-        },
-        {
-          "UnitID": "5",
-          "UnitNo": "#01-03",
-          "PropID": "4",
-          "TenantID": "171",
-          "TenantContactNo": "+65 6352 0130",
-          "TenantFaxNo": "+65 6352 0130",
-          "TenantEmailAdd": "shawplaza@petlovers.com.sg",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Pet Lovers Centre Pte Ltd",
-          "TradeName": "Pet Lovers Centre",
-          "TenantWebsiteURL": "http://www.petloverscentre.com/",
-          "SmallImage": "PLC Logo for Shaw.jpg"
-        },
-        {
-          "UnitID": "6",
-          "UnitNo": "#01-04",
-          "PropID": "4",
-          "TenantID": "216",
-          "TenantContactNo": "+65 6356 5995",
-          "TenantFaxNo": "+65 6356 5775",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Weiting Enterprises",
-          "TradeName": "Weiting Enterprises",
-          "SmallImage": ""
-        },
-        {
-          "UnitID": "7",
-          "UnitNo": "#01-04A/ 05",
-          "PropID": "4",
-          "TenantID": "8",
-          "TenantContactNo": "+65 6258 3960",
-          "TenantFaxNo": "+65 6258 3960",
-          "TenantEmailAdd": "sales@sportslink.com.sg",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Sports Link Holdings Pte Ltd",
-          "TradeName": "Sports Link",
-          "TenantWebsiteURL": "http://www.sportslink.com.sg",
-          "SmallImage": "sportslink.jpg"
-        },
-        {
-          "UnitID": "8",
-          "UnitNo": "#01-06",
-          "PropID": "4",
-          "TenantID": "324",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Simple Nails",
-          "TradeName": "Simple Nails"
-        },
-        {
-          "UnitID": "9",
-          "UnitNo": "#01-07",
-          "PropID": "4",
-          "TenantContactNo": "+65 6553 1088",
-          "TenantFaxNo": "+65 6258 1182",
-          "OccupancyDesc": "Unit size approximately 377 sq.ft. Asking Gross Rent $10.50 psf/mth.",
-          "OccupancyStatus": "V",
-          "Status": "A"
-        },
-        {
-          "UnitID": "10",
-          "UnitNo": "#01-08",
-          "PropID": "4",
-          "TenantID": "11",
-          "TenantContactNo": "+65 6354 2620",
-          "TenantFaxNo": "+65 6354 2620",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Polycare Optometrist",
-          "TradeName": "Polycare Optometrist",
-          "SmallImage": "polycare-logo.jpg"
-        },
-        {
-          "UnitID": "11",
-          "UnitNo": "#01-09",
-          "PropID": "4",
-          "TenantEmailAdd": "feedback@guardian.com.sg",
-          "OccupancyDesc": "Unit size approximately 893 sq.ft.. Asking Gross Rent $10.50 psf/mth",
-          "OccupancyStatus": "V",
-          "Status": "A"
-        },
-        {
-          "UnitID": "12",
-          "UnitNo": "#01-10/ 11",
-          "PropID": "4",
-          "TenantID": "1",
-          "TenantContactNo": "+65 6251 4303",
-          "TenantEmailAdd": "BLS@sg.mcd.com",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "McDonald's Resturants Pte Ltd (Shaw Plz)",
-          "TradeName": "McDonald's",
-          "TenantWebsiteURL": "http://www.mcd.com.sg",
-          "SmallImage": "MCD-log.jpg"
-        },
-        {
-          "UnitID": "14",
-          "UnitNo": "#01-13",
-          "PropID": "4",
-          "TenantID": "14",
-          "TenantContactNo": "+65 6258 1629",
-          "TenantFaxNo": "+65 6291 7016",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Kentucky Fried Chicken Management Pte Ltd (Shaw Plz)",
-          "TradeName": "KFC",
-          "TenantWebsiteURL": "http://www.kfc.com.sg",
-          "SmallImage": "KFC.jpg"
-        },
-        {
-          "UnitID": "15",
-          "UnitNo": "#01-14/ 15",
-          "PropID": "4",
-          "TenantID": "15",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "OCBC Bank (Shaw Plaza)",
-          "TradeName": "OCBC",
-          "TenantWebsiteURL": "http://www.ocbc.com.sg",
-          "SmallImage": "OCBC-logo.jpg"
-        },
-        {
-          "UnitID": "16",
-          "UnitNo": "#02-01 to 15",
-          "PropID": "4",
-          "TenantID": "50",
-          "TenantContactNo": "+65 62561121",
-          "TenantFaxNo": "+65 62583946",
-          "TenantEmailAdd": "admin@novenaholdings.com",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Novena Furnishing Centre Pte Ltd (Shaw Plaza) - The White",
-          "TradeName": "The White",
-          "TenantWebsiteURL": "http://www.novenaholdings.com",
-          "SmallImage": "the-white-logo.jpg"
-        },
-        {
-          "UnitID": "69",
-          "UnitNo": "#02-01 to 15",
-          "PropID": "4",
-          "TenantID": "16",
-          "TenantContactNo": "+65 6256 9969",
-          "TenantFaxNo": "+65 6258 5644",
-          "TenantEmailAdd": "admin@novenaholdings.com",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Novena Furnishing Centre Pte Ltd (Shaw Plaza) - Novena",
-          "TradeName": "Novena",
-          "TenantWebsiteURL": "http://www.novenaholdings.com",
-          "SmallImage": "Novena-logo.jpg"
-        },
-        {
-          "UnitID": "17",
-          "UnitNo": "#02-16",
-          "PropID": "4",
-          "TenantID": "17",
-          "TenantContactNo": "+65 63583353/ +65 63583363<br>",
-          "TenantFaxNo": "+65 63583017",
-          "TenantEmailAdd": "lclighting@pacific.net.sg",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "LC Lighting Centre Pte Ltd",
-          "TradeName": "LC Lighting Centre",
-          "SmallImage": "LC-logo-02.jpg"
-        },
-        {
-          "UnitID": "18",
-          "UnitNo": "#03-01",
-          "PropID": "4",
-          "TenantID": "245",
-          "TenantContactNo": "+65 6255 5021",
-          "TenantFaxNo": "+65 6255 0210",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Piuttosto Gallery Pte Ltd",
-          "TradeName": "Piuttosto Gallery Pte Ltd",
-          "SmallImage": ""
-        },
-        {
-          "UnitID": "19",
-          "UnitNo": "#03-02/ 03",
-          "PropID": "4",
-          "TenantID": "301",
-          "TenantContactNo": "+65 6255 5021",
-          "TenantFaxNo": "+65 6255 0210",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Piuttosto Gallery Pte Ltd",
-          "TradeName": "Piuttosto Gallery Pte Ltd",
-          "SmallImage": ""
-        },
-        {
-          "UnitID": "20",
-          "UnitNo": "#03-04 & 07",
-          "PropID": "4",
-          "TenantID": "20",
-          "TenantContactNo": "+65 62581334",
-          "TenantFaxNo": "+65 62581744",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Advent Learing Pte Ltd",
-          "TradeName": "Advent Learning",
-          "TenantWebsiteURL": "http://www.adventlearning.com.sg",
-          "SmallImage": "Advert-logo.jpg"
-        },
-        {
-          "UnitID": "21",
-          "UnitNo": "#03-05/ 06",
-          "PropID": "4",
-          "TenantContactNo": "+65 62591358",
-          "OccupancyDesc": "Unit size approximately 1,421 sq.ft. Asking Gross Rent $5.50 psf/mth. Open concept unit.  Suitable for Gallery/ show room.",
-          "OccupancyStatus": "V",
-          "Status": "A"
-        },
-        {
-          "UnitID": "22",
-          "UnitNo": "#03-08",
-          "PropID": "4",
-          "TenantID": "22",
-          "TenantContactNo": "+65 62500596",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Wen Ya Beauty & Health Centre",
-          "TradeName": "Wen Ya Beauty & Health Centre",
-          "SmallImage": ""
-        },
-        {
-          "UnitID": "23",
-          "UnitNo": "#03-09",
-          "PropID": "4",
-          "TenantID": "251",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Vince Music Art Studio",
-          "TradeName": "Vince Music Art Studio",
-          "SmallImage": ""
-        },
-        {
-          "UnitID": "24",
-          "UnitNo": "#03-10",
-          "PropID": "4",
-          "TenantID": "312",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Acu Point Pte Ltd",
-          "TradeName": "Acu Point Pte Ltd"
-        },
-        {
-          "UnitID": "25",
-          "UnitNo": "#03-11",
-          "PropID": "4",
-          "TenantID": "312",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Acu Point Pte Ltd",
-          "TradeName": "Acu Point Pte Ltd"
-        },
-        {
-          "UnitID": "26",
-          "UnitNo": "#03-12",
-          "PropID": "4",
-          "TenantID": "26",
-          "TenantContactNo": "+65 63533733",
-          "TenantFaxNo": "+65 67779197",
-          "TenantEmailAdd": "rr6262@singnet.com.sg",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "R&R Express Services Pte Ltd",
-          "TradeName": "FabricPro",
-          "SmallImage": "fabricpro-logo.jpg"
-        },
-        {
-          "UnitID": "27",
-          "UnitNo": "#03-13",
-          "PropID": "4",
-          "TenantID": "27",
-          "TenantContactNo": "+65 62502260/ +65 62507079<br>",
-          "TenantFaxNo": "+65 62501289",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Bronz",
-          "TradeName": "Bronz",
-          "SmallImage": "salon-logo.jpg"
-        },
-        {
-          "UnitID": "28",
-          "UnitNo": "#03-14",
-          "PropID": "4",
-          "TenantID": "313",
-          "TenantContactNo": "+65 6255 5021",
-          "TenantFaxNo": "+65 6255 0210",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Piuttosto Gallery Pte Ltd",
-          "TradeName": "Piuttosto Gallery Pte Ltd"
-        },
-        {
-          "UnitID": "29",
-          "UnitNo": "#04-01",
-          "PropID": "4",
-          "OccupancyDesc": "Unit size approximately 7,201 sq.ft. Asking Gross Rent $3.90 psf/mth. Suitable for F&B space, Possible for other trade.",
-          "OccupancyStatus": "V",
-          "Status": "A"
-        },
-        {
-          "UnitID": "68",
-          "UnitNo": "#04-02",
-          "PropID": "4",
-          "TenantID": "30",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Shaw Concession Pte Ltd",
-          "TradeName": "Movie Bites",
-          "TenantWebsiteURL": "http://www.shaw.sg",
-          "SmallImage": "moviebites-logo.jpg"
-        },
-        {
-          "UnitID": "30",
-          "UnitNo": "#04-03/04",
-          "PropID": "4",
-          "TenantID": "31",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Shaw Theatres Pte Ltd",
-          "TradeName": "Shaw Theatres",
-          "TenantWebsiteURL": "http://www.shaw.sg",
-          "SmallImage": "SB logo.jpg"
-        },
-        {
-          "UnitID": "1",
-          "UnitNo": "#B1 & #B2",
-          "PropID": "4",
-          "TenantID": "2",
-          "TenantContactNo": "+65 6411 5511",
-          "TenantFaxNo": "+65 6296 1492",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Wilson Parking (S) Pte Ltd",
-          "TradeName": "Wilson Parking",
-          "TenantWebsiteURL": "http://www.wilsonparking.com.sg",
-          "SmallImage": "Wilson-Parking.jpg"
-        },
-        {
-          "UnitID": "2",
-          "UnitNo": "#B1-01",
-          "PropID": "4",
-          "TenantID": "3",
-          "TenantContactNo": "+65 6352 0850",
-          "TenantFaxNo": "+65 6352 0849",
-          "TenantEmailAdd": "general.feedback@fairprice.com.sg",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "NTUC Fairprice Co-operative Ltd",
-          "TradeName": "NTUC Fairprice",
-          "TenantWebsiteURL": "http://www.fairprice.com.sg",
-          "SmallImage": "NTUC-logo.jpg"
-        }
-      ]
+      }
     },
     {
       "id": "12",
-      "PropName": "Shaw Centre",
-      "PropType": "Commercial",
-      "Description": {
-        "PropDescShort": "A 27-storey office building with a 5-storey annexe retail and F&B complex.",
-        "PropDescLong": "<div class='box'> A modern 5-storey shopping mall with a 2-storey annexe block. <p> The development is strategically located along the main thoroughfare of Balestier Road with easy access to the major expressways. The development itself forms an ideal catchment area for shoppers as it is situated amongst a densely populated residential locality. </p><p> The tenant mix is primarily of the concept of a one-stop family and entertainment centre with emphasis on liftstyle services. </p></div>",
-        "LeasingAvailable": {
+      "name": "Shaw Centre",
+      "category": "Commercial",
+      "description": {
+        "descriptionShort": "A 27-storey office building with a 5-storey annexe retail and F&B complex.",
+        "descriptionLong": "<div class='box'> A modern 5-storey shopping mall with a 2-storey annexe block. <p> The development is strategically located along the main thoroughfare of Balestier Road with easy access to the major expressways. The development itself forms an ideal catchment area for shoppers as it is situated amongst a densely populated residential locality. </p><p> The tenant mix is primarily of the concept of a one-stop family and entertainment centre with emphasis on liftstyle services. </p></div>",
+        "leasingAvailable": {
           "title": "Offices Available For Lease",
           "items": [
             {
@@ -1108,8 +1108,8 @@
             }
           ]
         },
-        "CommercialAskingRental": "Price on Application",
-        "Amenities": [
+        "askingRental": "Price on Application",
+        "amenities": [
           {
             "item": "Located prominently at the junction of Orchard Road, Scotts Road and Claymore Road."
           },
@@ -1126,12 +1126,12 @@
             "item": "Complimentary Wi-Fi services"
           }
         ],
-        "Availability": [
+        "availability": [
           {
             "item": "Perched atop the 27th level of Shaw Centre with panoramic skyline view of Orchard Road"
           },
           {
-            "item": "Approximate indoor area of 10,835.04 sq.ft"
+            "item": "approximate indoor area of 10,835.04 sq.ft"
           },
           {
             "item": "Usage of outdoor area (subject to authorities' approval"
@@ -1152,7 +1152,7 @@
             "item": "Rental upon application"
           }
         ],
-        "Contacts": [
+        "contacts": [
           {
             "name": "Ms. Lee WenQiao",
             "extension": "258",
@@ -1179,7 +1179,7 @@
             "transaction": "500ms"
           }
         ],
-        "RetailUnits": [
+        "retail": [
           {
             "title": "3<sup>rd</sup> Storey (Pop-up / Permanent)",
             "units": [
@@ -1226,763 +1226,763 @@
             ]
           }
         ],
-        "ExtraLink": {
+        "externalLink": {
           "link": "http://www.shawcentre.sg",
           "desc": "Go to Shaw Centre Website"
         }
       },
-      "PropPostalAdd": "1 Scotts Road, Singapore 228208",
-      "PropLocationMap": "mapCplexShawCentre1.png",
-      "PropLocationGoogleMap": {
+      "postalAddress": "1 Scotts Road, Singapore 228208",
+      "imageMap": "mapCplexShawCentre1.png",
+      "googleMap": {
         "lat": "1.306279",
         "lng": "103.831899"
       },
-      "PropDirectBus": "7, 36, 105, 111, 123, 132, 174, 174E, 502, 521~<br>54, 124, 143, 162M, 162X, 162, 181M~<br>105, 190, 518, 605, 700, 700A, NR1, NR2, NR3~<br>43, 105, 124, 132, 143, 162, 162X, 518~<br>36, 124, 143, 162, 162X, 174, 174E, 518, 512, C1",
-      "PropDirectMrt": "Orchard",
-      "SmallImage": "old-Shaw-centre-02.jpg",
-      "CompanyName": "Shaw Foundation",
-      "ShawMgtInd": "1",
-      "Status": "A",
-      "TenantList": [
+      "directBus": "7, 36, 105, 111, 123, 132, 174, 174E, 502, 521~<br>54, 124, 143, 162M, 162X, 162, 181M~<br>105, 190, 518, 605, 700, 700A, NR1, NR2, NR3~<br>43, 105, 124, 132, 143, 162, 162X, 518~<br>36, 124, 143, 162, 162X, 174, 174E, 518, 512, C1",
+      "directMrt": "Orchard",
+      "featuredImage": "old-Shaw-centre-02.jpg",
+      "companyName": "Shaw Foundation",
+      "shawMgtInd": "1",
+      "active": true,
+      "tenants": [
         {
-          "UnitID": "127",
-          "UnitNo": "#01-01/02/03 & #02-02/03",
-          "PropID": "12",
-          "TenantID": "262",
-          "TenantContactNo": "+65 67352438",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Polo Ralph Lauren",
-          "TradeName": "Polo Ralph Lauren",
-          "SmallImage": "Polo_Ralph_Lauren.jpg"
+          "unitId": "127",
+          "unitNo": "#01-01/02/03 & #02-02/03",
+          "propertyId": "12",
+          "tenantId": "262",
+          "tenantContactNo": "+65 67352438",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Polo Ralph Lauren",
+          "tradeName": "Polo Ralph Lauren",
+          "featuredImage": "Polo_Ralph_Lauren.jpg"
         },
         {
-          "UnitID": "320",
-          "UnitNo": "#01-04/05",
-          "PropID": "12",
-          "TenantID": "323",
-          "TenantContactNo": "+65 63113622",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": " GROHE SPA",
-          "TradeName": " GROHE",
-          "SmallImage": ""
+          "unitId": "320",
+          "unitNo": "#01-04/05",
+          "propertyId": "12",
+          "tenantId": "323",
+          "tenantContactNo": "+65 63113622",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": " GROHE SPA",
+          "tradeName": " GROHE",
+          "featuredImage": ""
         },
         {
-          "UnitID": "124",
-          "UnitNo": "#01-06",
-          "PropID": "12",
-          "TenantID": "316",
-          "TenantContactNo": "+65 62357725",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "NamNam GO!",
-          "TradeName": "NamNam GO!",
-          "SmallImage": "NamNam_Go.jpg"
+          "unitId": "124",
+          "unitNo": "#01-06",
+          "propertyId": "12",
+          "tenantId": "316",
+          "tenantContactNo": "+65 62357725",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "NamNam GO!",
+          "tradeName": "NamNam GO!",
+          "featuredImage": "NamNam_Go.jpg"
         },
         {
-          "UnitID": "314",
-          "UnitNo": "#01-07/11",
-          "PropID": "12",
-          "TenantID": "253",
-          "TenantContactNo": "+65 62380912",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Nike",
-          "TradeName": "Nike",
-          "SmallImage": "Nike.jpg"
+          "unitId": "314",
+          "unitNo": "#01-07/11",
+          "propertyId": "12",
+          "tenantId": "253",
+          "tenantContactNo": "+65 62380912",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Nike",
+          "tradeName": "Nike",
+          "featuredImage": "Nike.jpg"
         },
         {
-          "UnitID": "121",
-          "UnitNo": "#01-12",
-          "PropID": "12",
-          "TenantID": "326",
-          "TenantContactNo": "+65 67372422",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Mui Kee Congee",
-          "TradeName": "Mui Kee Congee",
-          "SmallImage": "Mui_Kee_Congee.jpg"
+          "unitId": "121",
+          "unitNo": "#01-12",
+          "propertyId": "12",
+          "tenantId": "326",
+          "tenantContactNo": "+65 67372422",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Mui Kee Congee",
+          "tradeName": "Mui Kee Congee",
+          "featuredImage": "Mui_Kee_Congee.jpg"
         },
         {
-          "UnitID": "322",
-          "UnitNo": "#01-13",
-          "PropID": "12",
-          "TenantID": "259",
-          "TenantContactNo": "+65 67356656",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "La Strada",
-          "TradeName": "La Strada",
-          "SmallImage": "La_Strada.jpg"
+          "unitId": "322",
+          "unitNo": "#01-13",
+          "propertyId": "12",
+          "tenantId": "259",
+          "tenantContactNo": "+65 67356656",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "La Strada",
+          "tradeName": "La Strada",
+          "featuredImage": "La_Strada.jpg"
         },
         {
-          "UnitID": "318",
-          "UnitNo": "#01-14",
-          "PropID": "12",
-          "TenantID": "232",
-          "TenantContactNo": "+65 67337763",
-          "TenantFaxNo": "67334134",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Bistro Du Vin",
-          "TradeName": "Bistro Du Vin",
-          "SmallImage": "Bistro_Du_Vin.jpg"
+          "unitId": "318",
+          "unitNo": "#01-14",
+          "propertyId": "12",
+          "tenantId": "232",
+          "tenantContactNo": "+65 67337763",
+          "tenantFaxNo": "67334134",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Bistro Du Vin",
+          "tradeName": "Bistro Du Vin",
+          "featuredImage": "Bistro_Du_Vin.jpg"
         },
         {
-          "UnitID": "324",
-          "UnitNo": "#01-15",
-          "PropID": "12",
-          "TenantID": "223",
-          "TenantContactNo": "+65 68365155",
-          "TenantFaxNo": "+65 68365755",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Shabu Shabu Gen",
-          "TradeName": "Shabu Shabu Gen",
-          "SmallImage": "Shabu_Shabu_Gen.jpg"
+          "unitId": "324",
+          "unitNo": "#01-15",
+          "propertyId": "12",
+          "tenantId": "223",
+          "tenantContactNo": "+65 68365155",
+          "tenantFaxNo": "+65 68365755",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Shabu Shabu Gen",
+          "tradeName": "Shabu Shabu Gen",
+          "featuredImage": "Shabu_Shabu_Gen.jpg"
         },
         {
-          "UnitID": "323",
-          "UnitNo": "#01-16/17/18 & #02-14/15/16 ",
-          "PropID": "12",
-          "TenantID": "260",
-          "TenantContactNo": "+65 67332225",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Les Amis ",
-          "TradeName": "Les Amis",
-          "SmallImage": "Les_Amis.jpg"
+          "unitId": "323",
+          "unitNo": "#01-16/17/18 & #02-14/15/16 ",
+          "propertyId": "12",
+          "tenantId": "260",
+          "tenantContactNo": "+65 67332225",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Les Amis ",
+          "tradeName": "Les Amis",
+          "featuredImage": "Les_Amis.jpg"
         },
         {
-          "UnitID": "316",
-          "UnitNo": "#01-19",
-          "PropID": "12",
-          "TenantID": "244",
-          "TenantContactNo": "+65 63338015",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Aoki Restaurant",
-          "TradeName": "Aoki Restaurant",
-          "SmallImage": "Aoki_Restaurant.jpg"
+          "unitId": "316",
+          "unitNo": "#01-19",
+          "propertyId": "12",
+          "tenantId": "244",
+          "tenantContactNo": "+65 63338015",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Aoki Restaurant",
+          "tradeName": "Aoki Restaurant",
+          "featuredImage": "Aoki_Restaurant.jpg"
         },
         {
-          "UnitID": "281",
-          "UnitNo": "#02-01 & #02-26",
-          "PropID": "12",
-          "TenantID": "275",
-          "TenantContactNo": "+65 67331111",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Mango",
-          "TradeName": "Mango",
-          "SmallImage": "Mango.jpg"
+          "unitId": "281",
+          "unitNo": "#02-01 & #02-26",
+          "propertyId": "12",
+          "tenantId": "275",
+          "tenantContactNo": "+65 67331111",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Mango",
+          "tradeName": "Mango",
+          "featuredImage": "Mango.jpg"
         },
         {
-          "UnitID": "133",
-          "UnitNo": "#02-04",
-          "PropID": "12",
-          "TenantID": "323",
-          "TenantContactNo": "+65 63113622",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": " GROHE SPA",
-          "TradeName": " GROHE",
-          "SmallImage": ""
+          "unitId": "133",
+          "unitNo": "#02-04",
+          "propertyId": "12",
+          "tenantId": "323",
+          "tenantContactNo": "+65 63113622",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": " GROHE SPA",
+          "tradeName": " GROHE",
+          "featuredImage": ""
         },
         {
-          "UnitID": "328",
-          "UnitNo": "#02-05",
-          "PropID": "12",
-          "TenantID": "269",
-          "TenantContactNo": "+65 67334485",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "FRAISE",
-          "TradeName": "FRAISE",
-          "SmallImage": "FRAISE.jpg"
+          "unitId": "328",
+          "unitNo": "#02-05",
+          "propertyId": "12",
+          "tenantId": "269",
+          "tenantContactNo": "+65 67334485",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "FRAISE",
+          "tradeName": "FRAISE",
+          "featuredImage": "FRAISE.jpg"
         },
         {
-          "UnitID": "315",
-          "UnitNo": "#02-06",
-          "PropID": "12",
-          "TenantID": "267",
-          "TenantContactNo": "+65 68369168",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "SK-II Boutique Spa by Senze Salus",
-          "TradeName": "SK-II Boutique Spa by Senze Salus",
-          "SmallImage": "SK-II-Boutique-Spa.jpg"
+          "unitId": "315",
+          "unitNo": "#02-06",
+          "propertyId": "12",
+          "tenantId": "267",
+          "tenantContactNo": "+65 68369168",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "SK-II Boutique Spa by Senze Salus",
+          "tradeName": "SK-II Boutique Spa by Senze Salus",
+          "featuredImage": "SK-II-Boutique-Spa.jpg"
         },
         {
-          "UnitID": "313",
-          "UnitNo": "#02-10/11",
-          "PropID": "12",
-          "TenantID": "271",
-          "TenantContactNo": "+65 67378336",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "La Tapería",
-          "TradeName": "La Tapería",
-          "SmallImage": "La_Tapeia.jpg"
+          "unitId": "313",
+          "unitNo": "#02-10/11",
+          "propertyId": "12",
+          "tenantId": "271",
+          "tenantContactNo": "+65 67378336",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "La Tapería",
+          "tradeName": "La Tapería",
+          "featuredImage": "La_Tapeia.jpg"
         },
         {
-          "UnitID": "282",
-          "UnitNo": "#02-12/13",
-          "PropID": "12",
-          "TenantID": "320",
-          "TenantContactNo": "+65 62357725",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Tarte",
-          "TradeName": "Tarte",
-          "SmallImage": "Tarte.jpg"
+          "unitId": "282",
+          "unitNo": "#02-12/13",
+          "propertyId": "12",
+          "tenantId": "320",
+          "tenantContactNo": "+65 62357725",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Tarte",
+          "tradeName": "Tarte",
+          "featuredImage": "Tarte.jpg"
         },
         {
-          "UnitID": "319",
-          "UnitNo": "#02-18",
-          "PropID": "12",
-          "TenantID": "321",
-          "TenantContactNo": "+65 67322886",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "La Taperia Wine & Tapas",
-          "TradeName": "La Taperia Wine & Tapas",
-          "SmallImage": "La_Tapeia.jpg"
+          "unitId": "319",
+          "unitNo": "#02-18",
+          "propertyId": "12",
+          "tenantId": "321",
+          "tenantContactNo": "+65 67322886",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "La Taperia Wine & Tapas",
+          "tradeName": "La Taperia Wine & Tapas",
+          "featuredImage": "La_Tapeia.jpg"
         },
         {
-          "UnitID": "336",
-          "UnitNo": "#02-19/20",
-          "PropID": "12",
-          "TenantID": "325",
-          "TenantContactNo": "+65 67322165",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "JINJO",
-          "TradeName": "JINJO",
-          "SmallImage": "JinJo.jpg"
+          "unitId": "336",
+          "unitNo": "#02-19/20",
+          "propertyId": "12",
+          "tenantId": "325",
+          "tenantContactNo": "+65 67322165",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "JINJO",
+          "tradeName": "JINJO",
+          "featuredImage": "JinJo.jpg"
         },
         {
-          "UnitID": "138",
-          "UnitNo": "#02-21/22",
-          "PropID": "12",
-          "TenantID": "308",
-          "TenantContactNo": "+65 67329943",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Face-Match Optical",
-          "TradeName": "Face-Match Optical",
-          "SmallImage": "Face_Match.jpg"
+          "unitId": "138",
+          "unitNo": "#02-21/22",
+          "propertyId": "12",
+          "tenantId": "308",
+          "tenantContactNo": "+65 67329943",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Face-Match Optical",
+          "tradeName": "Face-Match Optical",
+          "featuredImage": "Face_Match.jpg"
         },
         {
-          "UnitID": "317",
-          "UnitNo": "#02-23",
-          "PropID": "12",
-          "TenantID": "255",
-          "TenantContactNo": "+65 67377617 | +65 68381811",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Atelier Hair and Beauty",
-          "TradeName": "Atelier Hair and Beauty",
-          "SmallImage": "Atelier_Hair_And_Beauty.jpg"
+          "unitId": "317",
+          "unitNo": "#02-23",
+          "propertyId": "12",
+          "tenantId": "255",
+          "tenantContactNo": "+65 67377617 | +65 68381811",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Atelier Hair and Beauty",
+          "tradeName": "Atelier Hair and Beauty",
+          "featuredImage": "Atelier_Hair_And_Beauty.jpg"
         },
         {
-          "UnitID": "134",
-          "UnitNo": "#02-24/25",
-          "PropID": "12",
-          "TenantID": "276",
-          "TenantContactNo": "+65 68369495",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Dreamweave & Other Stories",
-          "TradeName": "Dreamweave & Other Stories",
-          "SmallImage": "Dreamweave.jpg"
+          "unitId": "134",
+          "unitNo": "#02-24/25",
+          "propertyId": "12",
+          "tenantId": "276",
+          "tenantContactNo": "+65 68369495",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Dreamweave & Other Stories",
+          "tradeName": "Dreamweave & Other Stories",
+          "featuredImage": "Dreamweave.jpg"
         },
         {
-          "UnitID": "135",
-          "UnitNo": "#03-01 & #03-33",
-          "PropID": "12",
-          "TenantID": "272",
-          "TenantContactNo": "+65 67331111",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Isetan (Shaw Centre)",
-          "TradeName": "Isetan",
-          "SmallImage": "Isetan.jpg"
+          "unitId": "135",
+          "unitNo": "#03-01 & #03-33",
+          "propertyId": "12",
+          "tenantId": "272",
+          "tenantContactNo": "+65 67331111",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Isetan (Shaw Centre)",
+          "tradeName": "Isetan",
+          "featuredImage": "Isetan.jpg"
         },
         {
-          "UnitID": "142",
-          "UnitNo": "#03-02",
-          "PropID": "12",
-          "TenantID": "328",
-          "TenantContactNo": "+65 63652150",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Samatha Thavasa Pop-Up Outlet ",
-          "TradeName": "Samatha Thavasa Pop-Up Outlet ",
-          "SmallImage": "Samantha_Thavasa_PteLtd.jpg"
+          "unitId": "142",
+          "unitNo": "#03-02",
+          "propertyId": "12",
+          "tenantId": "328",
+          "tenantContactNo": "+65 63652150",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Samatha Thavasa Pop-Up Outlet ",
+          "tradeName": "Samatha Thavasa Pop-Up Outlet ",
+          "featuredImage": "Samantha_Thavasa_PteLtd.jpg"
         },
         {
-          "UnitID": "136",
-          "UnitNo": "#03-03",
-          "PropID": "12",
-          "TenantID": "273",
-          "TenantContactNo": "+65 62359911",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Centre for Cosmetic Rejuvenation & Surgery",
-          "TradeName": "Centre for Cosmetic Rejuvenation & Surgery",
-          "SmallImage": "Centre_for_Cosmetic.jpg"
+          "unitId": "136",
+          "unitNo": "#03-03",
+          "propertyId": "12",
+          "tenantId": "273",
+          "tenantContactNo": "+65 62359911",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Centre for Cosmetic Rejuvenation & Surgery",
+          "tradeName": "Centre for Cosmetic Rejuvenation & Surgery",
+          "featuredImage": "Centre_for_Cosmetic.jpg"
         },
         {
-          "UnitID": "137",
-          "UnitNo": "#03-03",
-          "PropID": "12",
-          "TenantID": "270",
-          "TenantContactNo": "+65 62350728",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Centre for Beauty & Image Consulting",
-          "TradeName": "Centre for Beauty & Image Consulting",
-          "SmallImage": "Centre_for_Beauty_Image_Consulting.jpg"
+          "unitId": "137",
+          "unitNo": "#03-03",
+          "propertyId": "12",
+          "tenantId": "270",
+          "tenantContactNo": "+65 62350728",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Centre for Beauty & Image Consulting",
+          "tradeName": "Centre for Beauty & Image Consulting",
+          "featuredImage": "Centre_for_Beauty_Image_Consulting.jpg"
         },
         {
-          "UnitID": "140",
-          "UnitNo": "#03-04",
-          "PropID": "12",
-          "TenantID": "298",
-          "TenantContactNo": "1800 222 2121",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "UOB Shaw Centre",
-          "TradeName": "UOB Shaw Centre",
-          "SmallImage": "UOB_Shaw_Centre.jpg"
+          "unitId": "140",
+          "unitNo": "#03-04",
+          "propertyId": "12",
+          "tenantId": "298",
+          "tenantContactNo": "1800 222 2121",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "UOB Shaw Centre",
+          "tradeName": "UOB Shaw Centre",
+          "featuredImage": "UOB_Shaw_Centre.jpg"
         },
         {
-          "UnitID": "141",
-          "UnitNo": "#03-04",
-          "PropID": "12",
-          "TenantID": "299",
-          "TenantContactNo": "1800 222 1881",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "UOB Wealth Banking Centre – Shaw Centre",
-          "TradeName": "UOB Wealth Banking Centre – Shaw Centre",
-          "SmallImage": "UOB_Wealth_Banking_Centre.jpg"
+          "unitId": "141",
+          "unitNo": "#03-04",
+          "propertyId": "12",
+          "tenantId": "299",
+          "tenantContactNo": "1800 222 1881",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "UOB Wealth Banking Centre – Shaw Centre",
+          "tradeName": "UOB Wealth Banking Centre – Shaw Centre",
+          "featuredImage": "UOB_Wealth_Banking_Centre.jpg"
         },
         {
-          "UnitID": "144",
-          "UnitNo": "#03-05",
-          "PropID": "12",
-          "TenantID": "307",
-          "TenantContactNo": "+65 62357733",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Fox Studio",
-          "TradeName": "Fox Studio",
-          "SmallImage": "Fox_Studio.jpg"
+          "unitId": "144",
+          "unitNo": "#03-05",
+          "propertyId": "12",
+          "tenantId": "307",
+          "tenantContactNo": "+65 62357733",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Fox Studio",
+          "tradeName": "Fox Studio",
+          "featuredImage": "Fox_Studio.jpg"
         },
         {
-          "UnitID": "139",
-          "UnitNo": "#03-06",
-          "PropID": "12",
-          "TenantID": "274",
-          "TenantContactNo": "+65 67356753",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "LUSSO",
-          "TradeName": "LUSSO",
-          "SmallImage": "LUSSO.jpg"
+          "unitId": "139",
+          "unitNo": "#03-06",
+          "propertyId": "12",
+          "tenantId": "274",
+          "tenantContactNo": "+65 67356753",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "LUSSO",
+          "tradeName": "LUSSO",
+          "featuredImage": "LUSSO.jpg"
         },
         {
-          "UnitID": "335",
-          "UnitNo": "#03-07/08/09/10/11",
-          "PropID": "12",
-          "TenantID": "327",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Singapore Lingnan Restaurant",
-          "TradeName": "Singapore Lingnan Restaurant",
-          "SmallImage": "Singapore_Lingnan_Restauran.jpg"
+          "unitId": "335",
+          "unitNo": "#03-07/08/09/10/11",
+          "propertyId": "12",
+          "tenantId": "327",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Singapore Lingnan Restaurant",
+          "tradeName": "Singapore Lingnan Restaurant",
+          "featuredImage": "Singapore_Lingnan_Restauran.jpg"
         },
         {
-          "UnitID": "143",
-          "UnitNo": "#03-12/13",
-          "PropID": "12",
-          "TenantID": "280",
-          "TenantContactNo": "+65 67333476",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Xi Yan Shaw",
-          "TradeName": "Xi Yan Shaw",
-          "SmallImage": "Xi_Yan_Shaw.jpg"
+          "unitId": "143",
+          "unitNo": "#03-12/13",
+          "propertyId": "12",
+          "tenantId": "280",
+          "tenantContactNo": "+65 67333476",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Xi Yan Shaw",
+          "tradeName": "Xi Yan Shaw",
+          "featuredImage": "Xi_Yan_Shaw.jpg"
         },
         {
-          "UnitID": "145",
-          "UnitNo": "#03-14/15",
-          "PropID": "12",
-          "TenantID": "283",
-          "TenantContactNo": "+65 62352331",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "I Want My Noodle",
-          "TradeName": "I Want My Noodle",
-          "SmallImage": "I_Want_My_Noodle.jpg"
+          "unitId": "145",
+          "unitNo": "#03-14/15",
+          "propertyId": "12",
+          "tenantId": "283",
+          "tenantContactNo": "+65 62352331",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "I Want My Noodle",
+          "tradeName": "I Want My Noodle",
+          "featuredImage": "I_Want_My_Noodle.jpg"
         },
         {
-          "UnitID": "146",
-          "UnitNo": "#03-16/18",
-          "PropID": "12",
-          "TenantID": "143",
-          "TenantContactNo": "+65 68847337 | +65 62352235",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "The Ship Restaurant & Bar Pte Ltd",
-          "TradeName": "The Ship Restaurant & Bar Pte Ltd",
-          "SmallImage": "The_Ship_Res_And_Bar.jpg"
+          "unitId": "146",
+          "unitNo": "#03-16/18",
+          "propertyId": "12",
+          "tenantId": "143",
+          "tenantContactNo": "+65 68847337 | +65 62352235",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "The Ship Restaurant & Bar Pte Ltd",
+          "tradeName": "The Ship Restaurant & Bar Pte Ltd",
+          "featuredImage": "The_Ship_Res_And_Bar.jpg"
         },
         {
-          "UnitID": "149",
-          "UnitNo": "#03-19",
-          "PropID": "12",
-          "TenantID": "168",
-          "TenantContactNo": "+65 67339788",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Gee Wee Jewellery",
-          "TradeName": "Gee Wee Jewellery",
-          "SmallImage": "Gee_Wee_Jewellery.jpg"
+          "unitId": "149",
+          "unitNo": "#03-19",
+          "propertyId": "12",
+          "tenantId": "168",
+          "tenantContactNo": "+65 67339788",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Gee Wee Jewellery",
+          "tradeName": "Gee Wee Jewellery",
+          "featuredImage": "Gee_Wee_Jewellery.jpg"
         },
         {
-          "UnitID": "156",
-          "UnitNo": "#03-21",
-          "PropID": "12",
-          "TenantContactNo": "+65 98983195",
-          "OccupancyStatus": "V",
-          "Status": "A"
+          "unitId": "156",
+          "unitNo": "#03-21",
+          "propertyId": "12",
+          "tenantContactNo": "+65 98983195",
+          "occupancyStatus": "V",
+          "active": true
         },
         {
-          "UnitID": "161",
-          "UnitNo": "#03-22",
-          "PropID": "12",
-          "TenantID": "278",
-          "TenantContactNo": "+65 64630555 | +65 64661555",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Footworks",
-          "TradeName": "Footworks",
-          "SmallImage": "Footworks.jpg"
+          "unitId": "161",
+          "unitNo": "#03-22",
+          "propertyId": "12",
+          "tenantId": "278",
+          "tenantContactNo": "+65 64630555 | +65 64661555",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Footworks",
+          "tradeName": "Footworks",
+          "featuredImage": "Footworks.jpg"
         },
         {
-          "UnitID": "333",
-          "UnitNo": "#03-23",
-          "PropID": "12",
-          "TenantContactNo": "+65 62358722",
-          "OccupancyStatus": "V",
-          "Status": "A"
+          "unitId": "333",
+          "unitNo": "#03-23",
+          "propertyId": "12",
+          "tenantContactNo": "+65 62358722",
+          "occupancyStatus": "V",
+          "active": true
         },
         {
-          "UnitID": "152",
-          "UnitNo": "#03-24",
-          "PropID": "12",
-          "TenantID": "318",
-          "TenantContactNo": "+65 97934409 | +65 92708473",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Petite Fleur",
-          "TradeName": "Petite Fleur SG Pte Ltd",
-          "SmallImage": "Petite_Fleur.jpg"
+          "unitId": "152",
+          "unitNo": "#03-24",
+          "propertyId": "12",
+          "tenantId": "318",
+          "tenantContactNo": "+65 97934409 | +65 92708473",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Petite Fleur",
+          "tradeName": "Petite Fleur SG Pte Ltd",
+          "featuredImage": "Petite_Fleur.jpg"
         },
         {
-          "UnitID": "277",
-          "UnitNo": "#03-25",
-          "PropID": "12",
-          "TenantID": "277",
-          "TenantContactNo": "+65 67377822",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Nila Aromatherapy Bar",
-          "TradeName": "Nila Aromatherapy Bar",
-          "SmallImage": "Nila_Aromatherapy_Bar.jpg"
+          "unitId": "277",
+          "unitNo": "#03-25",
+          "propertyId": "12",
+          "tenantId": "277",
+          "tenantContactNo": "+65 67377822",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Nila Aromatherapy Bar",
+          "tradeName": "Nila Aromatherapy Bar",
+          "featuredImage": "Nila_Aromatherapy_Bar.jpg"
         },
         {
-          "UnitID": "239",
-          "UnitNo": "#03-26",
-          "PropID": "12",
-          "TenantID": "132",
-          "TenantContactNo": "+65 67375086",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "The Little Orchard Pte Ltd",
-          "TradeName": "The Little Orchard Pte Ltd",
-          "SmallImage": "The-Little-Orchard.jpg"
+          "unitId": "239",
+          "unitNo": "#03-26",
+          "propertyId": "12",
+          "tenantId": "132",
+          "tenantContactNo": "+65 67375086",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "The Little Orchard Pte Ltd",
+          "tradeName": "The Little Orchard Pte Ltd",
+          "featuredImage": "The-Little-Orchard.jpg"
         },
         {
-          "UnitID": "157",
-          "UnitNo": "#03-27",
-          "PropID": "12",
-          "TenantID": "322",
-          "TenantContactNo": "+65 67321413",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Little Sweetheart Baby Gift Boutique",
-          "TradeName": "Little Sweetheart Baby Gift Boutique ",
-          "SmallImage": ""
+          "unitId": "157",
+          "unitNo": "#03-27",
+          "propertyId": "12",
+          "tenantId": "322",
+          "tenantContactNo": "+65 67321413",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Little Sweetheart Baby Gift Boutique",
+          "tradeName": "Little Sweetheart Baby Gift Boutique ",
+          "featuredImage": ""
         },
         {
-          "UnitID": "153",
-          "UnitNo": "#03-28",
-          "PropID": "12",
-          "TenantID": "268",
-          "TenantContactNo": "+65 62358661",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "EHA SKINCARE",
-          "TradeName": "EHA SKINCARE",
-          "SmallImage": "EHA_Skincare.jpg"
+          "unitId": "153",
+          "unitNo": "#03-28",
+          "propertyId": "12",
+          "tenantId": "268",
+          "tenantContactNo": "+65 62358661",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "EHA SKINCARE",
+          "tradeName": "EHA SKINCARE",
+          "featuredImage": "EHA_Skincare.jpg"
         },
         {
-          "UnitID": "302",
-          "UnitNo": "#03-29",
-          "PropID": "12",
-          "TenantID": "284",
-          "TenantContactNo": "+65 67878678",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Pebble Skin Aesthetique Pte Ltd",
-          "TradeName": "Pebble Skin Aesthetique Pte Ltd",
-          "SmallImage": "Pebble_Skin_Aesthetics.jpg"
+          "unitId": "302",
+          "unitNo": "#03-29",
+          "propertyId": "12",
+          "tenantId": "284",
+          "tenantContactNo": "+65 67878678",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Pebble Skin Aesthetique Pte Ltd",
+          "tradeName": "Pebble Skin Aesthetique Pte Ltd",
+          "featuredImage": "Pebble_Skin_Aesthetics.jpg"
         },
         {
-          "UnitID": "154",
-          "UnitNo": "#03-30/31",
-          "PropID": "12",
-          "TenantID": "317",
-          "TenantContactNo": "+65 64109678",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "CMYK Lifestyle Pte Ltd",
-          "TradeName": "CMYK Lifestyle Pte Ltd",
-          "SmallImage": "Cmyk.jpg"
+          "unitId": "154",
+          "unitNo": "#03-30/31",
+          "propertyId": "12",
+          "tenantId": "317",
+          "tenantContactNo": "+65 64109678",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "CMYK Lifestyle Pte Ltd",
+          "tradeName": "CMYK Lifestyle Pte Ltd",
+          "featuredImage": "Cmyk.jpg"
         },
         {
-          "UnitID": "155",
-          "UnitNo": "#03-32",
-          "PropID": "12",
-          "TenantID": "287",
-          "TenantContactNo": "+65 62350265",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Seasons Time Pte Ltd",
-          "TradeName": "Seasons Time Pte Ltd"
+          "unitId": "155",
+          "unitNo": "#03-32",
+          "propertyId": "12",
+          "tenantId": "287",
+          "tenantContactNo": "+65 62350265",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Seasons Time Pte Ltd",
+          "tradeName": "Seasons Time Pte Ltd"
         },
         {
-          "UnitID": "253",
-          "UnitNo": "#04-02",
-          "PropID": "12",
-          "TenantID": "315",
-          "TenantContactNo": "+65 6235 4566",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "The X’ Cut",
-          "TradeName": "The X’ Cut",
-          "SmallImage": "the_x_cut.jpg"
+          "unitId": "253",
+          "unitNo": "#04-02",
+          "propertyId": "12",
+          "tenantId": "315",
+          "tenantContactNo": "+65 6235 4566",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "The X’ Cut",
+          "tradeName": "The X’ Cut",
+          "featuredImage": "the_x_cut.jpg"
         },
         {
-          "UnitID": "255",
-          "UnitNo": "#04-03",
-          "PropID": "12",
-          "TenantID": "266",
-          "TenantContactNo": "+65 67357824",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Pet Lovers Centre",
-          "TradeName": "Pet Lovers Centre",
-          "SmallImage": "Pet_Lovers_Centre.jpg"
+          "unitId": "255",
+          "unitNo": "#04-03",
+          "propertyId": "12",
+          "tenantId": "266",
+          "tenantContactNo": "+65 67357824",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Pet Lovers Centre",
+          "tradeName": "Pet Lovers Centre",
+          "featuredImage": "Pet_Lovers_Centre.jpg"
         },
         {
-          "UnitID": "173",
-          "UnitNo": "#04-07/08",
-          "PropID": "12",
-          "TenantID": "289",
-          "TenantContactNo": "+65 68380122",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Raffles Chinese Medicine",
-          "TradeName": "Raffles Chinese Medicine",
-          "SmallImage": "Raffles_Chinese_Medicine.jpg"
+          "unitId": "173",
+          "unitNo": "#04-07/08",
+          "propertyId": "12",
+          "tenantId": "289",
+          "tenantContactNo": "+65 68380122",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Raffles Chinese Medicine",
+          "tradeName": "Raffles Chinese Medicine",
+          "featuredImage": "Raffles_Chinese_Medicine.jpg"
         },
         {
-          "UnitID": "174",
-          "UnitNo": "#04-09/14",
-          "PropID": "12",
-          "TenantID": "286",
-          "TenantContactNo": "+65 68380080",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Raffles Medical",
-          "TradeName": "Raffles Medical",
-          "SmallImage": "Raffles_Medical.jpg"
+          "unitId": "174",
+          "unitNo": "#04-09/14",
+          "propertyId": "12",
+          "tenantId": "286",
+          "tenantContactNo": "+65 68380080",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Raffles Medical",
+          "tradeName": "Raffles Medical",
+          "featuredImage": "Raffles_Medical.jpg"
         },
         {
-          "UnitID": "329",
-          "UnitNo": "#04-09/14",
-          "PropID": "12",
-          "TenantID": "290",
-          "TenantContactNo": "+65 68380080",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Raffles Health Screeners ",
-          "TradeName": "Raffles Health Screeners ",
-          "SmallImage": "Raffles_Health_Screeners.jpg"
+          "unitId": "329",
+          "unitNo": "#04-09/14",
+          "propertyId": "12",
+          "tenantId": "290",
+          "tenantContactNo": "+65 68380080",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Raffles Health Screeners ",
+          "tradeName": "Raffles Health Screeners ",
+          "featuredImage": "Raffles_Health_Screeners.jpg"
         },
         {
-          "UnitID": "330",
-          "UnitNo": "#04-09/14",
-          "PropID": "12",
-          "TenantID": "291",
-          "TenantContactNo": "+65 68380080",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Raffles Dental ",
-          "TradeName": "Raffles Dental ",
-          "SmallImage": "Raffles_Dental.jpg"
+          "unitId": "330",
+          "unitNo": "#04-09/14",
+          "propertyId": "12",
+          "tenantId": "291",
+          "tenantContactNo": "+65 68380080",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Raffles Dental ",
+          "tradeName": "Raffles Dental ",
+          "featuredImage": "Raffles_Dental.jpg"
         },
         {
-          "UnitID": "179",
-          "UnitNo": "#04-18",
-          "PropID": "12",
-          "TenantID": "263",
-          "TenantContactNo": "+65 66352441",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Seasons Nail Bar",
-          "TradeName": "Seasons Nail Bar",
-          "SmallImage": "Seasons_Nail_Bar.jpg"
+          "unitId": "179",
+          "unitNo": "#04-18",
+          "propertyId": "12",
+          "tenantId": "263",
+          "tenantContactNo": "+65 66352441",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Seasons Nail Bar",
+          "tradeName": "Seasons Nail Bar",
+          "featuredImage": "Seasons_Nail_Bar.jpg"
         },
         {
-          "UnitID": "334",
-          "UnitNo": "#04-20/21",
-          "PropID": "12",
-          "TenantID": "310",
-          "TenantContactNo": "+65 90189212",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "8 Korean BBQ",
-          "TradeName": "8 Korean BBQ",
-          "SmallImage": "8_Korean_BBQ.jpg"
+          "unitId": "334",
+          "unitNo": "#04-20/21",
+          "propertyId": "12",
+          "tenantId": "310",
+          "tenantContactNo": "+65 90189212",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "8 Korean BBQ",
+          "tradeName": "8 Korean BBQ",
+          "featuredImage": "8_Korean_BBQ.jpg"
         },
         {
-          "UnitID": "182",
-          "UnitNo": "#04-22/23",
-          "PropID": "12",
-          "TenantID": "285",
-          "TenantContactNo": "+65 62352547",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "IPPUDO SG",
-          "TradeName": "IPPUDO SG",
-          "SmallImage": "IPPUDO_SG.jpg"
+          "unitId": "182",
+          "unitNo": "#04-22/23",
+          "propertyId": "12",
+          "tenantId": "285",
+          "tenantContactNo": "+65 62352547",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "IPPUDO SG",
+          "tradeName": "IPPUDO SG",
+          "featuredImage": "IPPUDO_SG.jpg"
         },
         {
-          "UnitID": "183",
-          "UnitNo": "#04-23",
-          "PropID": "12",
-          "TenantID": "297",
-          "TenantContactNo": " +65 62352547",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Bar IPPUDO",
-          "TradeName": "Bar IPPUDO",
-          "SmallImage": "IPPUDO_BAR.jpg"
+          "unitId": "183",
+          "unitNo": "#04-23",
+          "propertyId": "12",
+          "tenantId": "297",
+          "tenantContactNo": " +65 62352547",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Bar IPPUDO",
+          "tradeName": "Bar IPPUDO",
+          "featuredImage": "IPPUDO_BAR.jpg"
         },
         {
-          "UnitID": "215",
-          "UnitNo": "#05-01/11",
-          "PropID": "12",
-          "TenantID": "288",
-          "TenantContactNo": "+65 68380100",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Raffles Specialists",
-          "TradeName": "Raffles Specialists",
-          "SmallImage": "Raffles_Specialists.jpg"
+          "unitId": "215",
+          "unitNo": "#05-01/11",
+          "propertyId": "12",
+          "tenantId": "288",
+          "tenantContactNo": "+65 68380100",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Raffles Specialists",
+          "tradeName": "Raffles Specialists",
+          "featuredImage": "Raffles_Specialists.jpg"
         },
         {
-          "UnitID": "231",
-          "UnitNo": "#27-00 & #28-00",
-          "PropID": "12",
-          "TenantContactNo": "+65 67373383",
-          "OccupancyStatus": "V",
-          "Status": "A"
+          "unitId": "231",
+          "unitNo": "#27-00 & #28-00",
+          "propertyId": "12",
+          "tenantContactNo": "+65 67373383",
+          "occupancyStatus": "V",
+          "active": true
         },
         {
-          "UnitID": "321",
-          "UnitNo": "#B1-01",
-          "PropID": "12",
-          "TenantID": "258",
-          "TenantContactNo": "+65 62350995",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Food Republic",
-          "TradeName": "Food Republic",
-          "SmallImage": "Food_Republic.jpg"
+          "unitId": "321",
+          "unitNo": "#B1-01",
+          "propertyId": "12",
+          "tenantId": "258",
+          "tenantContactNo": "+65 62350995",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Food Republic",
+          "tradeName": "Food Republic",
+          "featuredImage": "Food_Republic.jpg"
         },
         {
-          "UnitID": "285",
-          "UnitNo": "Car Park",
-          "PropID": "12",
-          "TenantID": "224",
-          "TenantContactNo": "+65 63347773 | +65 62500046",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Metro Parking (S) Pte Ltd",
-          "TradeName": "Metro Parking",
-          "SmallImage": "Metro_Parking.jpg"
+          "unitId": "285",
+          "unitNo": "Car Park",
+          "propertyId": "12",
+          "tenantId": "224",
+          "tenantContactNo": "+65 63347773 | +65 62500046",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Metro Parking (S) Pte Ltd",
+          "tradeName": "Metro Parking",
+          "featuredImage": "Metro_Parking.jpg"
         },
         {
-          "UnitID": "325",
-          "UnitNo": "Level 1",
-          "PropID": "12",
-          "TenantID": "257",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "DBS ATM",
-          "TradeName": "DBS ATM",
-          "SmallImage": "DBS_logo.jpg"
+          "unitId": "325",
+          "unitNo": "Level 1",
+          "propertyId": "12",
+          "tenantId": "257",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "DBS ATM",
+          "tradeName": "DBS ATM",
+          "featuredImage": "DBS_logo.jpg"
         },
         {
-          "UnitID": "326",
-          "UnitNo": "Level 1",
-          "PropID": "12",
-          "TenantID": "261",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "OCBC ATM",
-          "TradeName": "OCBC ATM",
-          "SmallImage": "OCBC.jpg"
+          "unitId": "326",
+          "unitNo": "Level 1",
+          "propertyId": "12",
+          "tenantId": "261",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "OCBC ATM",
+          "tradeName": "OCBC ATM",
+          "featuredImage": "OCBC.jpg"
         },
         {
-          "UnitID": "327",
-          "UnitNo": "Level 1",
-          "PropID": "12",
-          "TenantID": "265",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "UOB ATM",
-          "TradeName": "UOB ATM",
-          "SmallImage": "UOB.jpg"
+          "unitId": "327",
+          "unitNo": "Level 1",
+          "propertyId": "12",
+          "tenantId": "265",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "UOB ATM",
+          "tradeName": "UOB ATM",
+          "featuredImage": "UOB.jpg"
         }
       ]
     },
     {
       "id": "13",
-      "PropName": "Shaw House",
-      "PropType": "Commercial",
-      "Description": {
-        "PropDescShort": "A 21-storey office building with a 6-storey retail/ entertainment complex.",
-        "PropDescLong": "<div class='box'> <p> Shaw House is located prominently at the intersection of Orchard Road with Scotts Road and Paterson Road. This strategic intersection is sited at the heart of the Orchard Road corridor and is linked by underpasses directly to Orchard MRT Station and Wheelock Place. Public transport is readily available along the main thoroughfares of Orchard Road with Scotts Road and Paterson Road. </p><p> Isetan, an exquisite Japanese departmental store is the anchor tenant for the retail complex whilst Shaw's flagship cinema, Lido Cineplex promotes the best ambience for audiences to catch the latest blockbusters. Mouth-watering variety of fast-food outlets and delicious treats can also be found within the complex whilst a multi-national profile of tenants occupy the office building. </p></div>",
-        "LeasingAvailable": {
+      "name": "Shaw House",
+      "category": "Commercial",
+      "description": {
+        "descriptionShort": "A 21-storey office building with a 6-storey retail/ entertainment complex.",
+        "descriptionLong": "<div class='box'> <p> Shaw House is located prominently at the intersection of Orchard Road with Scotts Road and Paterson Road. This strategic intersection is sited at the heart of the Orchard Road corridor and is linked by underpasses directly to Orchard MRT Station and Wheelock Place. Public transport is readily available along the main thoroughfares of Orchard Road with Scotts Road and Paterson Road. </p><p> Isetan, an exquisite Japanese departmental store is the anchor tenant for the retail complex whilst Shaw's flagship cinema, Lido Cineplex promotes the best ambience for audiences to catch the latest blockbusters. Mouth-watering variety of fast-food outlets and delicious treats can also be found within the complex whilst a multi-national profile of tenants occupy the office building. </p></div>",
+        "leasingAvailable": {
           "title": "Offices Available For Lease",
           "items": [
             {
@@ -2152,7 +2152,7 @@
             }
           ]
         },
-        "Amenities": [
+        "amenities": [
           {
             "item": "Located prominently in the heart of Orchard Road."
           },
@@ -2166,7 +2166,7 @@
             "item": "Ample car parking (please feel free to contact the car park operator, M/s Metro Parking at telephone number 6334 7773 ext 805, for further details)."
           }
         ],
-        "Contacts": [
+        "contacts": [
           {
             "name": "Ms. Lee WenQiao",
             "extension": "258",
@@ -2194,92 +2194,92 @@
           }
         ]
       },
-      "PropPostalAdd": "350 Orchard Road, Singapore 238868",
-      "PropLocationMap": "mapShawHouse.png",
-      "PropLocationGoogleMap": {
+      "postalAddress": "350 Orchard Road, Singapore 238868",
+      "imageMap": "mapShawHouse.png",
+      "googleMap": {
         "lat": "1.305746",
         "lng": "103.831478"
       },
-      "PropDirectBus": "7, 36, 105, 111, 123, 132, 174, 174E, 502, 521~<br>54, 124, 143, 162M, 162X, 162, 181M~<br>105, 190, 518, 605, 700, 700A, NR1, NR2, NR3~<br>43, 105, 124, 132, 143, 162, 162X, 518~<br>36, 124, 143, 162, 162X, 174, 174E, 518, 512, C1",
-      "PropDirectMrt": "Orchard",
-      "SmallImage": "ShawHse web pix.jpg",
-      "CompanyName": "Shaw House Pte Ltd",
-      "ShawMgtInd": "1",
-      "Status": "A",
-      "TenantList": [
+      "directBus": "7, 36, 105, 111, 123, 132, 174, 174E, 502, 521~<br>54, 124, 143, 162M, 162X, 162, 181M~<br>105, 190, 518, 605, 700, 700A, NR1, NR2, NR3~<br>43, 105, 124, 132, 143, 162, 162X, 518~<br>36, 124, 143, 162, 162X, 174, 174E, 518, 512, C1",
+      "directMrt": "Orchard",
+      "featuredImage": "ShawHse web pix.jpg",
+      "companyName": "Shaw House Pte Ltd",
+      "shawMgtInd": "1",
+      "active": true,
+      "tenants": [
         {
-          "UnitID": "89",
-          "UnitNo": "#01-01",
-          "PropID": "13",
-          "TenantID": "64",
-          "TenantContactNo": "+65 67349309",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Gelatissimo Venture Pte Ltd",
-          "TradeName": "Gelatissimo",
-          "SmallImage": "gelatissimo.jpg"
+          "unitId": "89",
+          "unitNo": "#01-01",
+          "propertyId": "13",
+          "tenantId": "64",
+          "tenantContactNo": "+65 67349309",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Gelatissimo Venture Pte Ltd",
+          "tradeName": "Gelatissimo",
+          "featuredImage": "gelatissimo.jpg"
         },
         {
-          "UnitID": "56",
-          "UnitNo": "#B1-00  to #04-00",
-          "PropID": "13",
-          "TenantID": "34",
-          "TenantContactNo": "+65 67331111",
-          "TenantFaxNo": "+65 67347083",
-          "TenantEmailAdd": "contactus@isetan.com.sg",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Isetan (B1 - 4th)",
-          "TradeName": "Isetan",
-          "TenantWebsiteURL": "http://www.isetan.com.sg",
-          "SmallImage": "Isetan.JPG"
+          "unitId": "56",
+          "unitNo": "#B1-00  to #04-00",
+          "propertyId": "13",
+          "tenantId": "34",
+          "tenantContactNo": "+65 67331111",
+          "tenantFaxNo": "+65 67347083",
+          "tenantEmailAdd": "contactus@isetan.com.sg",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Isetan (B1 - 4th)",
+          "tradeName": "Isetan",
+          "tenantWebsiteUrl": "http://www.isetan.com.sg",
+          "featuredImage": "Isetan.JPG"
         },
         {
-          "UnitID": "90",
-          "UnitNo": "#B1-02",
-          "PropID": "13",
-          "TenantID": "258",
-          "TenantContactNo": "+65 62350995",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Food Republic",
-          "TradeName": "Food Republic",
-          "SmallImage": "Food_Republic.jpg"
+          "unitId": "90",
+          "unitNo": "#B1-02",
+          "propertyId": "13",
+          "tenantId": "258",
+          "tenantContactNo": "+65 62350995",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Food Republic",
+          "tradeName": "Food Republic",
+          "featuredImage": "Food_Republic.jpg"
         },
         {
-          "UnitID": "85",
-          "UnitNo": "#B1-03",
-          "PropID": "13",
-          "TenantID": "292",
-          "TenantContactNo": "+65 62355354",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Toast Box",
-          "TradeName": "Toast Box",
-          "SmallImage": "Toast_Box.jpg"
+          "unitId": "85",
+          "unitNo": "#B1-03",
+          "propertyId": "13",
+          "tenantId": "292",
+          "tenantContactNo": "+65 62355354",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Toast Box",
+          "tradeName": "Toast Box",
+          "featuredImage": "Toast_Box.jpg"
         },
         {
-          "UnitID": "86",
-          "UnitNo": "#B1-04/05",
-          "PropID": "13",
-          "TenantID": "293",
-          "TenantContactNo": "+65 68364644",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Sanpoutei Ramen",
-          "TradeName": "Sanpoutei Ramen",
-          "SmallImage": "Sanpoutei_Ramen.jpg"
+          "unitId": "86",
+          "unitNo": "#B1-04/05",
+          "propertyId": "13",
+          "tenantId": "293",
+          "tenantContactNo": "+65 68364644",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Sanpoutei Ramen",
+          "tradeName": "Sanpoutei Ramen",
+          "featuredImage": "Sanpoutei_Ramen.jpg"
         }
       ]
     },
     {
       "id": "14",
-      "PropName": "Shaw Corner",
-      "PropType": "Commercial",
-      "Description": {
-        "PropDescShort": "A 4-storey commercial building.",
-        "PropDescLong": "Shaw Corner is prominently located off the junction of Boon Teck Road with Balestier Road. Being centrally located within a densley populated residential locality, it is easily accessible to the major expressways linking to the city centre and airport.<br><br>The development is currently occupied by a student hostel and has shops on its ground floor. A basement level provides car park spaces for the entire development. Being located in one of Singapore's well-known food districts, a wide variety of local delectables can be readliy found in its immediate vicinity.<br><br>For leasing enquiries, please contact Real Estate Department at +65 6235 2077 (main line).<br><br>",
-        "Contacts": [
+      "name": "Shaw Corner",
+      "category": "Commercial",
+      "description": {
+        "descriptionShort": "A 4-storey commercial building.",
+        "descriptionLong": "Shaw Corner is prominently located off the junction of Boon Teck Road with Balestier Road. Being centrally located within a densley populated residential locality, it is easily accessible to the major expressways linking to the city centre and airport.<br><br>The development is currently occupied by a student hostel and has shops on its ground floor. A basement level provides car park spaces for the entire development. Being located in one of Singapore's well-known food districts, a wide variety of local delectables can be readliy found in its immediate vicinity.<br><br>For leasing enquiries, please contact Real Estate Department at +65 6235 2077 (main line).<br><br>",
+        "contacts": [
           {
             "name": "Ms. Lee WenQiao",
             "extension": "258",
@@ -2307,82 +2307,82 @@
           }
         ]
       },
-      "PropPostalAdd": "12 Boon Teck Road, Singapore 329586",
-      "PropLocationMap": "mapShawCorner.gif",
-      "PropLocationGoogleMap": {
+      "postalAddress": "12 Boon Teck Road, Singapore 329586",
+      "imageMap": "mapShawCorner.gif",
+      "googleMap": {
         "lat": "1.326195",
         "lng": "103.849680"
       },
-      "PropDirectBus": "21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186",
-      "PropDirectMrt": "Novena (nearest)",
-      "SmallImage": "Shaw Corner web pix.JPG",
-      "CompanyName": "Shaw Foundation Pte",
-      "ShawMgtInd": "1",
-      "Status": "A",
-      "TenantList": [
+      "directBus": "21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186",
+      "directMrt": "Novena (nearest)",
+      "featuredImage": "Shaw Corner web pix.JPG",
+      "companyName": "Shaw Foundation Pte",
+      "shawMgtInd": "1",
+      "active": true,
+      "tenants": [
         {
-          "UnitID": "71",
-          "UnitNo": "#01-01",
-          "PropID": "14",
-          "TenantID": "51",
-          "TenantContactNo": "+65 62592918",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Rehab Mart Pte Ltd",
-          "TradeName": "Rehab Mart",
-          "SmallImage": ""
+          "unitId": "71",
+          "unitNo": "#01-01",
+          "propertyId": "14",
+          "tenantId": "51",
+          "tenantContactNo": "+65 62592918",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Rehab Mart Pte Ltd",
+          "tradeName": "Rehab Mart",
+          "featuredImage": ""
         },
         {
-          "UnitID": "75",
-          "UnitNo": "#01-02",
-          "PropID": "14",
-          "TenantID": "206",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Innerspace Design Solutions",
-          "TradeName": "Innerspace Design Solutions",
-          "SmallImage": ""
+          "unitId": "75",
+          "unitNo": "#01-02",
+          "propertyId": "14",
+          "tenantId": "206",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Innerspace Design Solutions",
+          "tradeName": "Innerspace Design Solutions",
+          "featuredImage": ""
         },
         {
-          "UnitID": "76",
-          "UnitNo": "#01-04 / 05",
-          "PropID": "14",
-          "TenantID": "53",
-          "TenantContactNo": "+65 62557950",
-          "TenantFaxNo": "+65 62511910",
-          "TenantEmailAdd": "clinic@comvet.com",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Companion Animal Surgery Pte Ltd",
-          "TradeName": "Companion Animal Surgery",
-          "TenantWebsiteURL": "http://comvet.com",
-          "SmallImage": ""
+          "unitId": "76",
+          "unitNo": "#01-04 / 05",
+          "propertyId": "14",
+          "tenantId": "53",
+          "tenantContactNo": "+65 62557950",
+          "tenantFaxNo": "+65 62511910",
+          "tenantEmailAdd": "clinic@comvet.com",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Companion Animal Surgery Pte Ltd",
+          "tradeName": "Companion Animal Surgery",
+          "tenantWebsiteUrl": "http://comvet.com",
+          "featuredImage": ""
         },
         {
-          "UnitID": "74",
-          "UnitNo": "#02-01 to 06",
-          "PropID": "14",
-          "TenantID": "52",
-          "TenantContactNo": "+65 62518588",
-          "TenantFaxNo": "+65 63524668",
-          "TenantEmailAdd": "admin@bshostel.com",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Balestier Students' Hostel (S) Pte Ltd",
-          "TradeName": "Balestier Students' Hostel ",
-          "TenantWebsiteURL": "http://www.bshostel.com",
-          "SmallImage": ""
+          "unitId": "74",
+          "unitNo": "#02-01 to 06",
+          "propertyId": "14",
+          "tenantId": "52",
+          "tenantContactNo": "+65 62518588",
+          "tenantFaxNo": "+65 63524668",
+          "tenantEmailAdd": "admin@bshostel.com",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Balestier Students' Hostel (S) Pte Ltd",
+          "tradeName": "Balestier Students' Hostel ",
+          "tenantWebsiteUrl": "http://www.bshostel.com",
+          "featuredImage": ""
         }
       ]
     },
     {
       "id": "15",
-      "PropName": "Oriental Plaza",
-      "PropType": "Commercial",
-      "Description": {
-        "PropDescShort": "A 4-storey commercial building.",
-        "PropDescLong": "<div class='box'> <b>Oriental Plaza</b> is 4-storey commercial building strategically located at the junction of New Bridge Road with Kreta Ayer Road, within the heart of Chinatown. The development itself forms an ideal catchment area for shoppers as it is situated amongst a densely populated locality. <p> The development comprises primarily shops and offices with basement car parks. Outram MRT station is only a stone's throw away from the development and public transport is readily available along the main thoroughfare of New Bridge Road. </p></div>",
-        "LeasingAvailable": {
+      "name": "Oriental Plaza",
+      "category": "Commercial",
+      "description": {
+        "descriptionShort": "A 4-storey commercial building.",
+        "descriptionLong": "<div class='box'> <b>Oriental Plaza</b> is 4-storey commercial building strategically located at the junction of New Bridge Road with Kreta Ayer Road, within the heart of Chinatown. The development itself forms an ideal catchment area for shoppers as it is situated amongst a densely populated locality. <p> The development comprises primarily shops and offices with basement car parks. Outram MRT station is only a stone's throw away from the development and public transport is readily available along the main thoroughfare of New Bridge Road. </p></div>",
+        "leasingAvailable": {
           "title": "Premises Available For Lease",
           "items": [
             {
@@ -2398,7 +2398,7 @@
             }
           ]
         },
-        "Contacts": [
+        "contacts": [
           {
             "name": "Ms. Lee WenQiao",
             "extension": "258",
@@ -2426,129 +2426,129 @@
           }
         ]
       },
-      "PropPostalAdd": "291 New Bridge Road, Singapore 088756",
-      "PropLocationMap": "orientalplaza.jpg",
-      "PropLocationGoogleMap": {
+      "postalAddress": "291 New Bridge Road, Singapore 088756",
+      "imageMap": "orientalplaza.jpg",
+      "googleMap": {
         "lat": "1.281907",
         "lng": "103.841870"
       },
-      "SmallImage": "OrientalPlz web pix.jpg",
-      "CompanyName": "Shaw Brothers Ltd",
-      "ShawMgtInd": "1",
-      "Status": "A",
-      "TenantList": [
+      "featuredImage": "OrientalPlz web pix.jpg",
+      "companyName": "Shaw Brothers Ltd",
+      "shawMgtInd": "1",
+      "active": true,
+      "tenants": [
         {
-          "UnitID": "307",
-          "UnitNo": "#01-01",
-          "PropID": "15",
-          "TenantID": "240",
-          "TenantContactNo": "+65 6225  6964",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Korea BBQ Pte Ltd",
-          "TradeName": "Korea BBQ Pte Ltd",
-          "SmallImage": ""
+          "unitId": "307",
+          "unitNo": "#01-01",
+          "propertyId": "15",
+          "tenantId": "240",
+          "tenantContactNo": "+65 6225  6964",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Korea BBQ Pte Ltd",
+          "tradeName": "Korea BBQ Pte Ltd",
+          "featuredImage": ""
         },
         {
-          "UnitID": "308",
-          "UnitNo": "#01-02",
-          "PropID": "15",
-          "OccupancyDesc": "4,921 sq.ft. Available for lease",
-          "OccupancyStatus": "V",
-          "Status": "A"
+          "unitId": "308",
+          "unitNo": "#01-02",
+          "propertyId": "15",
+          "occupancyDesc": "4,921 sq.ft. Available for lease",
+          "occupancyStatus": "V",
+          "active": true
         },
         {
-          "UnitID": "309",
-          "UnitNo": "#02-01",
-          "PropID": "15",
-          "OccupancyDesc": "310 sq.ft.  Available for lease.",
-          "OccupancyStatus": "V",
-          "Status": "A"
+          "unitId": "309",
+          "unitNo": "#02-01",
+          "propertyId": "15",
+          "occupancyDesc": "310 sq.ft.  Available for lease.",
+          "occupancyStatus": "V",
+          "active": true
         },
         {
-          "UnitID": "310",
-          "UnitNo": "#02-03",
-          "PropID": "15",
-          "OccupancyDesc": "1,240 sq.ft.  Available for lease.",
-          "OccupancyStatus": "V",
-          "Status": "A"
+          "unitId": "310",
+          "unitNo": "#02-03",
+          "propertyId": "15",
+          "occupancyDesc": "1,240 sq.ft.  Available for lease.",
+          "occupancyStatus": "V",
+          "active": true
         },
         {
-          "UnitID": "311",
-          "UnitNo": "#02-05-06/ 10-12 & #03-02/ 03",
-          "PropID": "15",
-          "TenantID": "234",
-          "TenantContactNo": "+65 6333 4724/+65 6333 4725",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Location Pte Ltd",
-          "TradeName": "Location Pte Ltd",
-          "SmallImage": ""
+          "unitId": "311",
+          "unitNo": "#02-05-06/ 10-12 & #03-02/ 03",
+          "propertyId": "15",
+          "tenantId": "234",
+          "tenantContactNo": "+65 6333 4724/+65 6333 4725",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Location Pte Ltd",
+          "tradeName": "Location Pte Ltd",
+          "featuredImage": ""
         },
         {
-          "UnitID": "106",
-          "UnitNo": "#02-07/ 08/ 09/ 13/ 14/ 15/ 16",
-          "PropID": "15",
-          "TenantID": "76",
-          "TenantContactNo": "+65 63254181",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Singapore Chinese Football Club",
-          "TradeName": "Singapore Chinese Football Club"
+          "unitId": "106",
+          "unitNo": "#02-07/ 08/ 09/ 13/ 14/ 15/ 16",
+          "propertyId": "15",
+          "tenantId": "76",
+          "tenantContactNo": "+65 63254181",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Singapore Chinese Football Club",
+          "tradeName": "Singapore Chinese Football Club"
         },
         {
-          "UnitID": "262",
-          "UnitNo": "#03-01",
-          "PropID": "15",
-          "OccupancyDesc": "2,932 sq.ft. Available for lease. (Cinema Hall 2)",
-          "OccupancyStatus": "V",
-          "Status": "A"
+          "unitId": "262",
+          "unitNo": "#03-01",
+          "propertyId": "15",
+          "occupancyDesc": "2,932 sq.ft. Available for lease. (Cinema Hall 2)",
+          "occupancyStatus": "V",
+          "active": true
         },
         {
-          "UnitID": "107",
-          "UnitNo": "#03-04/05",
-          "PropID": "15",
-          "TenantID": "77",
-          "TenantContactNo": "+65 62233187",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Oriential Tea House",
-          "TradeName": "Oriential Tea House"
+          "unitId": "107",
+          "unitNo": "#03-04/05",
+          "propertyId": "15",
+          "tenantId": "77",
+          "tenantContactNo": "+65 62233187",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Oriential Tea House",
+          "tradeName": "Oriential Tea House"
         },
         {
-          "UnitID": "260",
-          "UnitNo": "#04-01",
-          "PropID": "15",
-          "TenantID": "205",
-          "TenantContactNo": "+65 6775 8562",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Club Bubbery Pte Ltd",
-          "TradeName": "BAR1 @ Club Bubbery",
-          "SmallImage": ""
+          "unitId": "260",
+          "unitNo": "#04-01",
+          "propertyId": "15",
+          "tenantId": "205",
+          "tenantContactNo": "+65 6775 8562",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Club Bubbery Pte Ltd",
+          "tradeName": "BAR1 @ Club Bubbery",
+          "featuredImage": ""
         },
         {
-          "UnitID": "284",
-          "UnitNo": "B1 &  B2",
-          "PropID": "15",
-          "TenantID": "224",
-          "TenantContactNo": "+65 6334 7773",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Metro Parking (S) Pte Ltd",
-          "TradeName": "Metro Parking",
-          "SmallImage": "Metro_Parking.jpg"
+          "unitId": "284",
+          "unitNo": "B1 &  B2",
+          "propertyId": "15",
+          "tenantId": "224",
+          "tenantContactNo": "+65 6334 7773",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Metro Parking (S) Pte Ltd",
+          "tradeName": "Metro Parking",
+          "featuredImage": "Metro_Parking.jpg"
         }
       ]
     },
     {
       "id": "16",
-      "PropName": "Balestier Warehouse",
-      "PropType": "Commercial",
-      "Description": {
-        "PropDescShort": "A 9-storey warehouse development.",
-        "PropDescLong": "<div class='box'> The development is centrally located in the heart of Balestier Road with easy access to the major expressways linking to the city centre, airport and ports. <p> Unit sizes range from 2,300 sq.ft. to 7,600 sq.ft. and have a clear ceiling height of approximately 4m with a floor loading of 14.5 KN per sq.m. However, ground floor units have a generous ceiling height of approximately 4.8 m with a floor loading of 19.0 KN per sq.m. </p><p> All floors are served by 3 X 3,000 kg cargo lifts and 1 high speed passenger lift with a capacity for 15 persons. </p><p> The development has toilet facilities on every floor and is fully equipped with Fire Protection System. All floors are treated with high quality hardeners. </p><p> Car parks can be found around the development and its loading bays (3 parking lots for 40 footer containers) are equipped with 3 X 12,270 kg capacity docklevelers. </p></div>",
-        "LeasingAvailable": {
+      "name": "Balestier Warehouse",
+      "category": "Commercial",
+      "description": {
+        "descriptionShort": "A 9-storey warehouse development.",
+        "descriptionLong": "<div class='box'> The development is centrally located in the heart of Balestier Road with easy access to the major expressways linking to the city centre, airport and ports. <p> Unit sizes range from 2,300 sq.ft. to 7,600 sq.ft. and have a clear ceiling height of approximately 4m with a floor loading of 14.5 KN per sq.m. However, ground floor units have a generous ceiling height of approximately 4.8 m with a floor loading of 19.0 KN per sq.m. </p><p> All floors are served by 3 X 3,000 kg cargo lifts and 1 high speed passenger lift with a capacity for 15 persons. </p><p> The development has toilet facilities on every floor and is fully equipped with Fire Protection System. All floors are treated with high quality hardeners. </p><p> Car parks can be found around the development and its loading bays (3 parking lots for 40 footer containers) are equipped with 3 X 12,270 kg capacity docklevelers. </p></div>",
+        "leasingAvailable": {
           "title": "Premises Available For Lease",
           "items": [
             {
@@ -2575,7 +2575,7 @@
             }
           ]
         },
-        "Amenities": [
+        "amenities": [
           {
             "item": "Car parking facilities"
           },
@@ -2583,7 +2583,7 @@
             "item": "Easy access to City/ CTE/ PIE"
           }
         ],
-        "Contacts": [
+        "contacts": [
           {
             "name": "Ms. Lee WenQiao",
             "extension": "258",
@@ -2611,28 +2611,28 @@
           }
         ]
       },
-      "PropPostalAdd": "12A Jalan Ampas, Singapore 329526",
-      "PropLocationMap": "mapBalestierWarehouse.gif",
-      "PropLocationGoogleMap": {
+      "postalAddress": "12A Jalan Ampas, Singapore 329526",
+      "imageMap": "mapBalestierWarehouse.gif",
+      "googleMap": {
         "lat": "1.326530",
         "lng": "103.852088"
       },
-      "PropDirectBus": "21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186",
-      "PropDirectMrt": "Novena (nearest)",
-      "SmallImage": "Balestier Whse web pix.JPG",
-      "CompanyName": "Shaw",
-      "ShawMgtInd": "0",
-      "Status": "A",
-      "TenantList": []
+      "directBus": "21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186",
+      "directMrt": "Novena (nearest)",
+      "featuredImage": "Balestier Whse web pix.JPG",
+      "companyName": "Shaw",
+      "shawMgtInd": "0",
+      "active": true,
+      "tenants": []
     },
     {
       "id": "19",
-      "PropName": "North Bridge Road",
-      "PropType": "Commercial",
-      "Description": {
-        "PropDescShort": "A 2-storey shophouse with an attic",
-        "PropPostalAdd": "791/ 791A/ 791B North Bridge Road, Singapore",
-        "Contacts": [
+      "name": "North Bridge Road",
+      "category": "Commercial",
+      "description": {
+        "descriptionShort": "A 2-storey shophouse with an attic",
+        "postalAddress": "791/ 791A/ 791B North Bridge Road, Singapore",
+        "contacts": [
           {
             "name": "Ms. Lee WenQiao",
             "extension": "258",
@@ -2660,61 +2660,61 @@
           }
         ]
       },
-      "PropLocationMap": "map791NBRpsd.gif",
-      "SmallImage": "IMG_1686.JPG",
-      "CompanyName": "Shaw & Sons (S) Pte Ltd",
-      "ShawMgtInd": "0",
-      "Status": "I",
-      "TenantList": [
+      "imageMap": "map791NBRpsd.gif",
+      "featuredImage": "IMG_1686.JPG",
+      "companyName": "Shaw & Sons (S) Pte Ltd",
+      "shawMgtInd": "0",
+      "active": false,
+      "tenants": [
         {
-          "UnitID": "116",
-          "UnitNo": "791 A & B",
-          "PropID": "19",
-          "TenantID": "304",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Iprofits Dymamics Pte Ltd",
-          "TradeName": "Iprofits Dymamics Pte Ltd"
+          "unitId": "116",
+          "unitNo": "791 A & B",
+          "propertyId": "19",
+          "tenantId": "304",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Iprofits Dymamics Pte Ltd",
+          "tradeName": "Iprofits Dymamics Pte Ltd"
         }
       ]
     },
     {
       "id": "20",
-      "PropName": "Mackenzie Road",
-      "PropType": "Commercial",
-      "Description": {
-        "PropDescShort": "A 4-storey shophouse."
+      "name": "Mackenzie Road",
+      "category": "Commercial",
+      "description": {
+        "descriptionShort": "A 4-storey shophouse."
       },
-      "PropPostalAdd": "13 Mackenzie Road, Singapore 228676",
-      "PropLocationMap": "",
-      "PropLocationGoogleMap": {
+      "postalAddress": "13 Mackenzie Road, Singapore 228676",
+      "imageMap": "",
+      "googleMap": {
         "lat": "1.326544",
         "lng": "103.852105"
       },
-      "SmallImage": "210720105199.jpg",
-      "CompanyName": "Shaw Realty (Singaore) Pte Ltd",
-      "ShawMgtInd": "0",
-      "Status": "A",
-      "TenantList": [
+      "featuredImage": "210720105199.jpg",
+      "companyName": "Shaw Realty (Singaore) Pte Ltd",
+      "shawMgtInd": "0",
+      "active": true,
+      "tenants": [
         {
-          "UnitID": "331",
-          "UnitNo": "13",
-          "PropID": "20",
-          "TenantID": "305",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "New Cameroon Seafood Restaurant",
-          "TradeName": "New Cameroon Seafood Restaurant"
+          "unitId": "331",
+          "unitNo": "13",
+          "propertyId": "20",
+          "tenantId": "305",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "New Cameroon Seafood Restaurant",
+          "tradeName": "New Cameroon Seafood Restaurant"
         },
         {
-          "UnitID": "332",
-          "UnitNo": "13A/ B/ C",
-          "PropID": "20",
-          "TenantID": "306",
-          "OccupancyStatus": "N",
-          "Status": "A",
-          "TenantName": "Yves Strategic Management Pte Ltd",
-          "TradeName": "Yves Strategic Management Pte Ltd"
+          "unitId": "332",
+          "unitNo": "13A/ B/ C",
+          "propertyId": "20",
+          "tenantId": "306",
+          "occupancyStatus": "N",
+          "active": true,
+          "tenantName": "Yves Strategic Management Pte Ltd",
+          "tradeName": "Yves Strategic Management Pte Ltd"
         }
       ]
     }
