@@ -1,0 +1,2722 @@
+{
+  "properties": [
+    {
+      "id": "6",
+      "PropName": "Hullet Rise",
+      "PropType": "Residental",
+      "Description": {
+        "PropDescShort": "A 16-storey apartment block.",
+        "PropDescLong": "<div class='box'> <h4>Description</h4> A 16-storey apartment block comprising 1, 1+1, 2 and 3+1 bedroom apartments with areas of approximately 800 sq.ft. - 1,300 sq.ft. <br/> <br/> Situated in the heart of Orchard Road's shopping and entertainment belt, it is within walking distance to the Somerset MRT station. </div>",
+        "RentalAvailability": {
+          "title": "Availability",
+          "items": [
+            {
+              "unit": "#02-04",
+              "type": "1 Bedroom + Utility<br/>Type C2<br/>Approx. 73.1 sm",
+              "rental": "S$3,500 per month",
+              "remarks": "Partially furnished."
+            },
+            {
+              "unit": "#03-02",
+              "type": "3 Bedrooms + Utility<br/>Type A <br/>Approx. 106.6 sm",
+              "rental": "S$4,500 per month",
+              "remarks": "Partially furnished."
+            },
+            {
+              "unit": "#03-04",
+              "type": "1 Bedrooms + Utility<br/> Type C<br/> Approx. 73.1 sm",
+              "rental": "S$3,500 per month",
+              "remarks": "Partially furnished."
+            },
+            {
+              "unit": "#04-01",
+              "type": "3 Bedrooms + Utility<br/> Type B<br/>Approx. 110.1 sm",
+              "rental": "S$4,500 per month",
+              "remarks": "Partially furnished."
+            },
+            {
+              "unit": "#04-02",
+              "type": "3 Bedrooms + Utility<br/>Type A<br/>Approx. 106.6 sm",
+              "rental": "S$4,500 per month",
+              "remarks": "Partially furnished."
+            },
+            {
+              "unit": "#04-04",
+              "type": "1 Bedrooms<br/> Type C1<br/> Approx. 73.2 sm",
+              "rental": "S$3,500 per month",
+              "remarks": "Partially furnished."
+            },
+            {
+              "unit": "#05-02",
+              "type": "3 Bedrooms + Utility<br/> Type A<br/>Approx. 106.6 sm",
+              "rental": "S$4,500 per month",
+              "remarks": "Partially furnished."
+            },
+            {
+              "unit": "#06-01",
+              "type": "3 Bedrooms + Utility<br/>Type B<br/>Approx. 110.1 sm",
+              "rental": "UNDER OFFER",
+              "remarks": "Partially furnished."
+            },
+            {
+              "unit": "#07-01",
+              "type": "3 Bedrooms + Utility<br/> Type B<br/>Approx. 110.1 sm",
+              "rental": "S$4,500 per month",
+              "remarks": "Partially furnished."
+            },
+            {
+              "unit": "#08-01",
+              "type": "3 Bedrooms + Utility<br/>Type B<br/>Approx. 110.1 sm",
+              "rental": "S$4,500 per month",
+              "remarks": "Partially furnished."
+            },
+            {
+              "unit": "#09-02",
+              "type": "3 Bedrooms + Utility<br/>Type A<br/>Approx. 106.6 sm",
+              "rental": "S$4,500 per month",
+              "remarks": "Partially furnished."
+            },
+            {
+              "unit": "#11-02",
+              "type": "3 Bedrooms + Utility<br/>Type A<br/>Approx. 106.6 sm",
+              "rental": "S$4,500 per month",
+              "remarks": "Partially furnished."
+            },
+            {
+              "unit": "#13-02",
+              "type": "1 Bedrooms + Utility<br/> Type A1<br/> Approx. 87.1 sm",
+              "rental": "S$3,500 per month",
+              "remarks": "Partially furnished."
+            }
+          ]
+        },
+        "Facilities": [
+          {
+            "item": "Swimming Pool"
+          },
+          {
+            "item": "Gymnasium"
+          },
+          {
+            "item": "BBQ Area"
+          },
+          {
+            "item": "Basement car parking"
+          }
+        ],
+        "NearestMRT": [
+          {
+            "item": "Somerset MRT Station"
+          }
+        ],
+        "NearestSchools": [
+          {
+            "item": "Chatsworth International School (Orchard Campus)"
+          },
+          {
+            "item": "Anglo-Chinese School (Junior)"
+          }
+        ],
+        "Contacts": [
+          {
+            "name": "Ms. Lee WenQiao",
+            "extension": "258",
+            "transaction": "100ms"
+          },
+          {
+            "name": "Ms. Joyce Tay",
+            "extension": "209",
+            "transaction": "200ms"
+          },
+          {
+            "name": "Mr. Marcus Tan",
+            "extension": "261",
+            "transaction": "300ms"
+          },
+          {
+            "name": "Ms. Katherine Tan",
+            "extension": "277",
+            "transaction": "400ms"
+          },
+          {
+            "name": "Ms. Florence Teo",
+            "extension": "254",
+            "transaction": "500ms"
+          }
+        ]
+      },
+      "PropPostalAdd": "6 Hullet Road, Singapore 229159",
+      "PropLocationMap": "mapHulletRise.gif",
+      "PropDirectBus": "7, 14, 16, 65, 106, 111, 123, 502, 65M, NR1, NR2, NR3, NR5, NR6, NR7, NR8, C1",
+      "PropDirectMrt": "Somerset",
+      "SmallImage": "HulletRise web pix.jpg",
+      "CompanyName": "SB Apartments Pte Ltd/ SHaw Realty (Singapore) Pte Ltd",
+      "ShawMgtInd": "1",
+      "Status": "I",
+      "Gallery": [
+        {
+          "ScreenNo": "1",
+          "DispPriority": "1",
+          "ScreenImage": "PIC00025 .JPG",
+          "ScreenDesc": "Building"
+        },
+        {
+          "ScreenNo": "2",
+          "DispPriority": "2",
+          "ScreenImage": "PIC00030.jpg",
+          "ScreenDesc": "Pool"
+        },
+        {
+          "ScreenNo": "3",
+          "DispPriority": "3",
+          "ScreenImage": "PIC00029.JPG",
+          "ScreenDesc": "Gym"
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "PropName": "40 Andrew Road",
+      "PropType": "Residental",
+      "Description": {
+        "PropDescShort": "Each property is a 2-storey detached house with in-ground swimming pool, car porch and landscaping.  ",
+        "ApproximateArea": [
+          {
+            "item": "Land - 17,177 sq.ft."
+          },
+          {
+            "item": "Built-In - 5,544 sq.ft."
+          }
+        ],
+        "AskingRental": [
+          {
+            "item": "S$18,000.00 per house per month on partially furnished basis."
+          }
+        ],
+        "PropertyAvailability": [
+          {
+            "item": "Vacant"
+          },
+          {
+            "item": "Viewing by prior appointment only"
+          }
+        ],
+        "Accommodation": [
+          {
+            "item": "Entrance lobby with shoe cupboard"
+          },
+          {
+            "item": "Master Bedroom (attached bathroom) with built-in wardrobe"
+          },
+          {
+            "item": "3 other Bedrooms (attached bathroom) with built-in wardrobe"
+          },
+          {
+            "item": "Guest Room (attached bathroom) with built-in wardrobe"
+          },
+          {
+            "item": "Family Area with open terrace"
+          },
+          {
+            "item": "Dining/ Living Rooms with breakfast open terrace and staircase leading down to Swimming Pool deck"
+          },
+          {
+            "item": "Powder Room"
+          },
+          {
+            "item": "Maid's Room with toilet"
+          },
+          {
+            "item": "Store Room"
+          },
+          {
+            "item": "Yard"
+          }
+        ],
+        "Maintenances": [
+          {
+            "item": "Air-conditioning System"
+          },
+          {
+            "item": "Auto-gate & Security System"
+          },
+          {
+            "item": "Swimming Pool"
+          },
+          {
+            "item": "Landscape/ Garden"
+          },
+          {
+            "item": "Pest Control"
+          }
+        ],
+        "Contacts": [
+          {
+            "name": "Ms. Lee WenQiao",
+            "extension": "258",
+            "transaction": "100ms"
+          },
+          {
+            "name": "Ms. Joyce Tay",
+            "extension": "209",
+            "transaction": "200ms"
+          },
+          {
+            "name": "Mr. Marcus Tan",
+            "extension": "261",
+            "transaction": "300ms"
+          },
+          {
+            "name": "Ms. Katherine Tan",
+            "extension": "277",
+            "transaction": "400ms"
+          },
+          {
+            "name": "Ms. Florence Teo",
+            "extension": "254",
+            "transaction": "500ms"
+          }
+        ]
+      },
+      "PropPostalAdd": "Andrew Road, Singapore",
+      "PropLocationMap": "",
+      "SmallImage": "40-AR.jpg",
+      "CompanyName": "Shaw & Sons (Singapore) Pte Ltd",
+      "ShawMgtInd": "1",
+      "Status": "I",
+      "Gallery": [
+        {
+          "ScreenNo": "1",
+          "DispPriority": "1",
+          "ScreenImage": "40-AR.jpg",
+          "ScreenDesc": "Car Porch"
+        },
+        {
+          "ScreenNo": "2",
+          "DispPriority": "2",
+          "ScreenImage": "40-AR-swimmingpool.jpg",
+          "ScreenDesc": "Swimming Pool"
+        },
+        {
+          "ScreenNo": "3",
+          "DispPriority": "3",
+          "ScreenImage": "40-AR-landscape.jpg",
+          "ScreenDesc": "Landscape"
+        },
+        {
+          "ScreenNo": "4",
+          "DispPriority": "4",
+          "ScreenImage": "40-AR-master-bedroom.jpg",
+          "ScreenDesc": "Master Bedroom"
+        },
+        {
+          "ScreenNo": "5",
+          "DispPriority": "5",
+          "ScreenImage": "40-AR-master-bedroom-study-area.jpg",
+          "ScreenDesc": "Master Bedroom - Study Area"
+        },
+        {
+          "ScreenNo": "6",
+          "DispPriority": "6",
+          "ScreenImage": "40-AR-master-bedroom-bathroom.jpg",
+          "ScreenDesc": "Master Bedroom - Bathroom"
+        },
+        {
+          "ScreenNo": "7",
+          "DispPriority": "7",
+          "ScreenImage": "40-AR-kitchen.jpg",
+          "ScreenDesc": "Kitchen"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "PropName": "Shaw Plaza",
+      "PropType": "Commercial",
+      "Description": {
+        "PropDescShort": "A modern 5-storey shopping mall with a 2-storey annexe block.",
+        "PropDescLong": "",
+        "LeasingAvailable": {
+          "title": "Property Available For Lease",
+          "items": [
+            {
+              "unit": "#01-07",
+              "area": "377 sq.ft.",
+              "rental": "S$10.50 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare condition"
+                },
+                {
+                  "item": "Vacant"
+                }
+              ]
+            },
+            {
+              "unit": "#01-09",
+              "area": "893 sq.ft.",
+              "rental": "S$10.50 psf/mth",
+              "remarks": [
+                {
+                  "item": "As-is-where-is condition"
+                },
+                {
+                  "item": "Vacant"
+                }
+              ]
+            },
+            {
+              "unit": "#03-05/06",
+              "area": "1,421 sq.ft.",
+              "rental": "S$5.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Open-concept space"
+                },
+                {
+                  "item": "Suitable for show room/ gallery."
+                },
+                {
+                  "item": "Bare condition"
+                },
+                {
+                  "item": "Vacant"
+                }
+              ]
+            },
+            {
+              "unit": "#04-01",
+              "area": "7,201 sq.ft.",
+              "rental": "S$3.90 psf/mth",
+              "remarks": [
+                {
+                  "item": "Suitable for F&B"
+                },
+                {
+                  "item": "Possible for other trade"
+                },
+                {
+                  "item": "Bare condition"
+                },
+                {
+                  "item": "Vacant"
+                }
+              ]
+            }
+          ]
+        },
+        "NearestSchools": [
+          {
+            "item": "Global Indian International School Balestier Campus"
+          },
+          {
+            "item": "Balestier Hill Secondary School"
+          }
+        ],
+        "Amenities": [
+          {
+            "item": "Good car parking facilities"
+          },
+          {
+            "item": "Easy access to City/ CTE/ PIE"
+          }
+        ],
+        "Contacts": [
+          {
+            "name": "Ms. Lee WenQiao",
+            "extension": "258",
+            "transaction": "100ms"
+          },
+          {
+            "name": "Ms. Joyce Tay",
+            "extension": "209",
+            "transaction": "200ms"
+          },
+          {
+            "name": "Mr. Marcus Tan",
+            "extension": "261",
+            "transaction": "300ms"
+          },
+          {
+            "name": "Ms. Katherine Tan",
+            "extension": "277",
+            "transaction": "400ms"
+          }
+        ]
+      },
+      "PropPostalAdd": "360 Balestier Road, Singapore 329783",
+      "PropLocationMap": "mapShawPlaza.gif",
+      "PropLocationGoogleMap": {
+        "lat": "1.325044",
+        "lng": "103.851336"
+      },
+      "PropDirectBus": "21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>",
+      "PropDirectMrt": "Novena (nearest)",
+      "SmallImage": "shaw-retail web pix.jpg",
+      "CompanyName": "Shaw Properties (1997) Pte Ltd",
+      "ShawMgtInd": "1",
+      "Status": "A",
+      "TenantList": [
+        {
+          "UnitID": "4",
+          "UnitNo": "#01-01/02",
+          "PropID": "4",
+          "TenantID": "13",
+          "TenantContactNo": "+65 6352 8150/ +65 6352 7139<br>",
+          "TenantFaxNo": "+65 6459 9837",
+          "TenantEmailAdd": "tagore@pacific.net.sg",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Thomson Lighting Pte Ltd",
+          "TradeName": "Thomson Lighting",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "5",
+          "UnitNo": "#01-03",
+          "PropID": "4",
+          "TenantID": "171",
+          "TenantContactNo": "+65 6352 0130",
+          "TenantFaxNo": "+65 6352 0130",
+          "TenantEmailAdd": "shawplaza@petlovers.com.sg",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Pet Lovers Centre Pte Ltd",
+          "TradeName": "Pet Lovers Centre",
+          "TenantWebsiteURL": "http://www.petloverscentre.com/",
+          "SmallImage": "PLC Logo for Shaw.jpg"
+        },
+        {
+          "UnitID": "6",
+          "UnitNo": "#01-04",
+          "PropID": "4",
+          "TenantID": "216",
+          "TenantContactNo": "+65 6356 5995",
+          "TenantFaxNo": "+65 6356 5775",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Weiting Enterprises",
+          "TradeName": "Weiting Enterprises",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "7",
+          "UnitNo": "#01-04A/ 05",
+          "PropID": "4",
+          "TenantID": "8",
+          "TenantContactNo": "+65 6258 3960",
+          "TenantFaxNo": "+65 6258 3960",
+          "TenantEmailAdd": "sales@sportslink.com.sg",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Sports Link Holdings Pte Ltd",
+          "TradeName": "Sports Link",
+          "TenantWebsiteURL": "http://www.sportslink.com.sg",
+          "SmallImage": "sportslink.jpg"
+        },
+        {
+          "UnitID": "8",
+          "UnitNo": "#01-06",
+          "PropID": "4",
+          "TenantID": "324",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Simple Nails",
+          "TradeName": "Simple Nails"
+        },
+        {
+          "UnitID": "9",
+          "UnitNo": "#01-07",
+          "PropID": "4",
+          "TenantContactNo": "+65 6553 1088",
+          "TenantFaxNo": "+65 6258 1182",
+          "OccupancyDesc": "Unit size approximately 377 sq.ft. Asking Gross Rent $10.50 psf/mth.",
+          "OccupancyStatus": "V",
+          "Status": "A"
+        },
+        {
+          "UnitID": "10",
+          "UnitNo": "#01-08",
+          "PropID": "4",
+          "TenantID": "11",
+          "TenantContactNo": "+65 6354 2620",
+          "TenantFaxNo": "+65 6354 2620",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Polycare Optometrist",
+          "TradeName": "Polycare Optometrist",
+          "SmallImage": "polycare-logo.jpg"
+        },
+        {
+          "UnitID": "11",
+          "UnitNo": "#01-09",
+          "PropID": "4",
+          "TenantEmailAdd": "feedback@guardian.com.sg",
+          "OccupancyDesc": "Unit size approximately 893 sq.ft.. Asking Gross Rent $10.50 psf/mth",
+          "OccupancyStatus": "V",
+          "Status": "A"
+        },
+        {
+          "UnitID": "12",
+          "UnitNo": "#01-10/ 11",
+          "PropID": "4",
+          "TenantID": "1",
+          "TenantContactNo": "+65 6251 4303",
+          "TenantEmailAdd": "BLS@sg.mcd.com",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "McDonald's Resturants Pte Ltd (Shaw Plz)",
+          "TradeName": "McDonald's",
+          "TenantWebsiteURL": "http://www.mcd.com.sg",
+          "SmallImage": "MCD-log.jpg"
+        },
+        {
+          "UnitID": "14",
+          "UnitNo": "#01-13",
+          "PropID": "4",
+          "TenantID": "14",
+          "TenantContactNo": "+65 6258 1629",
+          "TenantFaxNo": "+65 6291 7016",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Kentucky Fried Chicken Management Pte Ltd (Shaw Plz)",
+          "TradeName": "KFC",
+          "TenantWebsiteURL": "http://www.kfc.com.sg",
+          "SmallImage": "KFC.jpg"
+        },
+        {
+          "UnitID": "15",
+          "UnitNo": "#01-14/ 15",
+          "PropID": "4",
+          "TenantID": "15",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "OCBC Bank (Shaw Plaza)",
+          "TradeName": "OCBC",
+          "TenantWebsiteURL": "http://www.ocbc.com.sg",
+          "SmallImage": "OCBC-logo.jpg"
+        },
+        {
+          "UnitID": "16",
+          "UnitNo": "#02-01 to 15",
+          "PropID": "4",
+          "TenantID": "50",
+          "TenantContactNo": "+65 62561121",
+          "TenantFaxNo": "+65 62583946",
+          "TenantEmailAdd": "admin@novenaholdings.com",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Novena Furnishing Centre Pte Ltd (Shaw Plaza) - The White",
+          "TradeName": "The White",
+          "TenantWebsiteURL": "http://www.novenaholdings.com",
+          "SmallImage": "the-white-logo.jpg"
+        },
+        {
+          "UnitID": "69",
+          "UnitNo": "#02-01 to 15",
+          "PropID": "4",
+          "TenantID": "16",
+          "TenantContactNo": "+65 6256 9969",
+          "TenantFaxNo": "+65 6258 5644",
+          "TenantEmailAdd": "admin@novenaholdings.com",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Novena Furnishing Centre Pte Ltd (Shaw Plaza) - Novena",
+          "TradeName": "Novena",
+          "TenantWebsiteURL": "http://www.novenaholdings.com",
+          "SmallImage": "Novena-logo.jpg"
+        },
+        {
+          "UnitID": "17",
+          "UnitNo": "#02-16",
+          "PropID": "4",
+          "TenantID": "17",
+          "TenantContactNo": "+65 63583353/ +65 63583363<br>",
+          "TenantFaxNo": "+65 63583017",
+          "TenantEmailAdd": "lclighting@pacific.net.sg",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "LC Lighting Centre Pte Ltd",
+          "TradeName": "LC Lighting Centre",
+          "SmallImage": "LC-logo-02.jpg"
+        },
+        {
+          "UnitID": "18",
+          "UnitNo": "#03-01",
+          "PropID": "4",
+          "TenantID": "245",
+          "TenantContactNo": "+65 6255 5021",
+          "TenantFaxNo": "+65 6255 0210",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Piuttosto Gallery Pte Ltd",
+          "TradeName": "Piuttosto Gallery Pte Ltd",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "19",
+          "UnitNo": "#03-02/ 03",
+          "PropID": "4",
+          "TenantID": "301",
+          "TenantContactNo": "+65 6255 5021",
+          "TenantFaxNo": "+65 6255 0210",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Piuttosto Gallery Pte Ltd",
+          "TradeName": "Piuttosto Gallery Pte Ltd",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "20",
+          "UnitNo": "#03-04 & 07",
+          "PropID": "4",
+          "TenantID": "20",
+          "TenantContactNo": "+65 62581334",
+          "TenantFaxNo": "+65 62581744",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Advent Learing Pte Ltd",
+          "TradeName": "Advent Learning",
+          "TenantWebsiteURL": "http://www.adventlearning.com.sg",
+          "SmallImage": "Advert-logo.jpg"
+        },
+        {
+          "UnitID": "21",
+          "UnitNo": "#03-05/ 06",
+          "PropID": "4",
+          "TenantContactNo": "+65 62591358",
+          "OccupancyDesc": "Unit size approximately 1,421 sq.ft. Asking Gross Rent $5.50 psf/mth. Open concept unit.  Suitable for Gallery/ show room.",
+          "OccupancyStatus": "V",
+          "Status": "A"
+        },
+        {
+          "UnitID": "22",
+          "UnitNo": "#03-08",
+          "PropID": "4",
+          "TenantID": "22",
+          "TenantContactNo": "+65 62500596",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Wen Ya Beauty & Health Centre",
+          "TradeName": "Wen Ya Beauty & Health Centre",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "23",
+          "UnitNo": "#03-09",
+          "PropID": "4",
+          "TenantID": "251",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Vince Music Art Studio",
+          "TradeName": "Vince Music Art Studio",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "24",
+          "UnitNo": "#03-10",
+          "PropID": "4",
+          "TenantID": "312",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Acu Point Pte Ltd",
+          "TradeName": "Acu Point Pte Ltd"
+        },
+        {
+          "UnitID": "25",
+          "UnitNo": "#03-11",
+          "PropID": "4",
+          "TenantID": "312",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Acu Point Pte Ltd",
+          "TradeName": "Acu Point Pte Ltd"
+        },
+        {
+          "UnitID": "26",
+          "UnitNo": "#03-12",
+          "PropID": "4",
+          "TenantID": "26",
+          "TenantContactNo": "+65 63533733",
+          "TenantFaxNo": "+65 67779197",
+          "TenantEmailAdd": "rr6262@singnet.com.sg",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "R&R Express Services Pte Ltd",
+          "TradeName": "FabricPro",
+          "SmallImage": "fabricpro-logo.jpg"
+        },
+        {
+          "UnitID": "27",
+          "UnitNo": "#03-13",
+          "PropID": "4",
+          "TenantID": "27",
+          "TenantContactNo": "+65 62502260/ +65 62507079<br>",
+          "TenantFaxNo": "+65 62501289",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Bronz",
+          "TradeName": "Bronz",
+          "SmallImage": "salon-logo.jpg"
+        },
+        {
+          "UnitID": "28",
+          "UnitNo": "#03-14",
+          "PropID": "4",
+          "TenantID": "313",
+          "TenantContactNo": "+65 6255 5021",
+          "TenantFaxNo": "+65 6255 0210",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Piuttosto Gallery Pte Ltd",
+          "TradeName": "Piuttosto Gallery Pte Ltd"
+        },
+        {
+          "UnitID": "29",
+          "UnitNo": "#04-01",
+          "PropID": "4",
+          "OccupancyDesc": "Unit size approximately 7,201 sq.ft. Asking Gross Rent $3.90 psf/mth. Suitable for F&B space, Possible for other trade.",
+          "OccupancyStatus": "V",
+          "Status": "A"
+        },
+        {
+          "UnitID": "68",
+          "UnitNo": "#04-02",
+          "PropID": "4",
+          "TenantID": "30",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Shaw Concession Pte Ltd",
+          "TradeName": "Movie Bites",
+          "TenantWebsiteURL": "http://www.shaw.sg",
+          "SmallImage": "moviebites-logo.jpg"
+        },
+        {
+          "UnitID": "30",
+          "UnitNo": "#04-03/04",
+          "PropID": "4",
+          "TenantID": "31",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Shaw Theatres Pte Ltd",
+          "TradeName": "Shaw Theatres",
+          "TenantWebsiteURL": "http://www.shaw.sg",
+          "SmallImage": "SB logo.jpg"
+        },
+        {
+          "UnitID": "1",
+          "UnitNo": "#B1 & #B2",
+          "PropID": "4",
+          "TenantID": "2",
+          "TenantContactNo": "+65 6411 5511",
+          "TenantFaxNo": "+65 6296 1492",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Wilson Parking (S) Pte Ltd",
+          "TradeName": "Wilson Parking",
+          "TenantWebsiteURL": "http://www.wilsonparking.com.sg",
+          "SmallImage": "Wilson-Parking.jpg"
+        },
+        {
+          "UnitID": "2",
+          "UnitNo": "#B1-01",
+          "PropID": "4",
+          "TenantID": "3",
+          "TenantContactNo": "+65 6352 0850",
+          "TenantFaxNo": "+65 6352 0849",
+          "TenantEmailAdd": "general.feedback@fairprice.com.sg",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "NTUC Fairprice Co-operative Ltd",
+          "TradeName": "NTUC Fairprice",
+          "TenantWebsiteURL": "http://www.fairprice.com.sg",
+          "SmallImage": "NTUC-logo.jpg"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "PropName": "Shaw Centre",
+      "PropType": "Commercial",
+      "Description": {
+        "PropDescShort": "A 27-storey office building with a 5-storey annexe retail and F&B complex.",
+        "PropDescLong": "<div class='box'> A modern 5-storey shopping mall with a 2-storey annexe block. <p> The development is strategically located along the main thoroughfare of Balestier Road with easy access to the major expressways. The development itself forms an ideal catchment area for shoppers as it is situated amongst a densely populated residential locality. </p><p> The tenant mix is primarily of the concept of a one-stop family and entertainment centre with emphasis on liftstyle services. </p></div>",
+        "LeasingAvailable": {
+          "title": "Offices Available For Lease",
+          "items": [
+            {
+              "unit": "#16-01",
+              "area": "1,280 sq.ft",
+              "combined": "",
+              "rental": "S$10.50 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#16-04",
+              "area": "1,231 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#16-11",
+              "area": "555 sq.ft.",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#16-14",
+              "area": "865 sq.ft",
+              "combined": "",
+              "rental": "UNDER OFFER",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#17-14",
+              "area": "865 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                },
+                {
+                  "item": "No Window"
+                }
+              ]
+            },
+            {
+              "unit": "#19-15",
+              "area": "432.5 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                },
+                {
+                  "item": "No Window"
+                }
+              ]
+            },
+            {
+              "unit": "#20-01",
+              "area": "1,280 sq.ft",
+              "combined": "",
+              "rental": "UNDER OFFER",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#20-02",
+              "area": "1,231 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#20-11/13",
+              "area": "1,640 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Fitted Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#21-05",
+              "area": "1,231 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#22-01",
+              "area": "1,280 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#22-06/07",
+              "area": "3,301 sq.ft",
+              "combined": "3,856 sq.ft.",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#22-08",
+              "area": "555 sq.ft",
+              "combined": "3,856 sq.ft.",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#22-11",
+              "area": "555 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#24-01",
+              "area": "1,280 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#25-01",
+              "area": "1,280 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#25-02",
+              "area": "1,231 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#25-09",
+              "area": "555 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#25-14",
+              "area": "865 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                },
+                {
+                  "item": "No Window"
+                }
+              ]
+            },
+            {
+              "unit": "#26-02",
+              "area": "1,231 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#26-04",
+              "area": "1,231 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#26-07",
+              "area": "941.5 sq.ft",
+              "combined": "",
+              "rental": "UNDER OFFER",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#26-12",
+              "area": "929 sq.ft",
+              "combined": "",
+              "rental": "S$8.00 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            }
+          ]
+        },
+        "CommercialAskingRental": "Price on Application",
+        "Amenities": [
+          {
+            "item": "Located prominently at the junction of Orchard Road, Scotts Road and Claymore Road."
+          },
+          {
+            "item": "Within walking distance to the Orchard MRT Station via underpass link."
+          },
+          {
+            "item": "Public transport is readily available along the main thoroughfares of Orchard Road with Scotts Road and Paterson Road."
+          },
+          {
+            "item": "Ample car parking (please contact our car park operator, M/s Metro Parking at telephone number 6334 7773 ext 805, for further details)."
+          },
+          {
+            "item": "Complimentary Wi-Fi services"
+          }
+        ],
+        "Availability": [
+          {
+            "item": "Perched atop the 27th level of Shaw Centre with panoramic skyline view of Orchard Road"
+          },
+          {
+            "item": "Approximate indoor area of 10,835.04 sq.ft"
+          },
+          {
+            "item": "Usage of outdoor area (subject to authorities' approval"
+          },
+          {
+            "item": "Within walking distance to the Orchard MRT Station via underpass link"
+          },
+          {
+            "item": "Public transport available along the Orchard Road with Scotts Road and Paterson Road"
+          },
+          {
+            "item": "Ample car parking lots"
+          },
+          {
+            "item": "Maybe suitable for Spa or F&B (subject to authorities' approval)"
+          },
+          {
+            "item": "Rental upon application"
+          }
+        ],
+        "Contacts": [
+          {
+            "name": "Ms. Lee WenQiao",
+            "extension": "258",
+            "transaction": "100ms"
+          },
+          {
+            "name": "Ms. Joyce Tay",
+            "extension": "209",
+            "transaction": "200ms"
+          },
+          {
+            "name": "Mr. Marcus Tan",
+            "extension": "261",
+            "transaction": "300ms"
+          },
+          {
+            "name": "Ms. Katherine Tan",
+            "extension": "277",
+            "transaction": "400ms"
+          },
+          {
+            "name": "Ms. Florence Teo",
+            "extension": "254",
+            "transaction": "500ms"
+          }
+        ],
+        "RetailUnits": [
+          {
+            "title": "3<sup>rd</sup> Storey (Pop-up / Permanent)",
+            "units": [
+              {
+                "unit": "#03-20",
+                "area": "592.23 sq.ft.",
+                "remarks": "Basic Infrastructure"
+              },
+              {
+                "unit": "#03-21",
+                "area": "932.92 sq.ft.",
+                "remarks": "Basic Infrastructure"
+              },
+              {
+                "unit": "#03-23",
+                "area": "687.17 sq.ft.",
+                "remarks": "Existing glass panel and glass door"
+              }
+            ]
+          },
+          {
+            "title": "4<sup>th</sup> Storey (Permanent)",
+            "units": [
+              {
+                "unit": "#04-01",
+                "area": "1,029.79 sq.ft.",
+                "remarks": "Bare Unit"
+              },
+              {
+                "unit": "#04-04",
+                "area": "531.10 sq.ft.",
+                "remarks": "Bare Unit"
+              },
+              {
+                "unit": "#04-17",
+                "area": "666.72 sq.ft.",
+                "remarks": "Bare Unit"
+              },
+              {
+                "unit": "#04-19",
+                "area": "169.00 sq.ft.",
+                "remarks": "Bare Unit"
+              }
+            ]
+          }
+        ],
+        "ExtraLink": {
+          "link": "http://www.shawcentre.sg",
+          "desc": "Go to Shaw Centre Website"
+        }
+      },
+      "PropPostalAdd": "1 Scotts Road, Singapore 228208",
+      "PropLocationMap": "mapCplexShawCentre1.png",
+      "PropLocationGoogleMap": {
+        "lat": "1.306279",
+        "lng": "103.831899"
+      },
+      "PropDirectBus": "7, 36, 105, 111, 123, 132, 174, 174E, 502, 521~<br>54, 124, 143, 162M, 162X, 162, 181M~<br>105, 190, 518, 605, 700, 700A, NR1, NR2, NR3~<br>43, 105, 124, 132, 143, 162, 162X, 518~<br>36, 124, 143, 162, 162X, 174, 174E, 518, 512, C1",
+      "PropDirectMrt": "Orchard",
+      "SmallImage": "old-Shaw-centre-02.jpg",
+      "CompanyName": "Shaw Foundation",
+      "ShawMgtInd": "1",
+      "Status": "A",
+      "TenantList": [
+        {
+          "UnitID": "127",
+          "UnitNo": "#01-01/02/03 & #02-02/03",
+          "PropID": "12",
+          "TenantID": "262",
+          "TenantContactNo": "+65 67352438",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Polo Ralph Lauren",
+          "TradeName": "Polo Ralph Lauren",
+          "SmallImage": "Polo_Ralph_Lauren.jpg"
+        },
+        {
+          "UnitID": "320",
+          "UnitNo": "#01-04/05",
+          "PropID": "12",
+          "TenantID": "323",
+          "TenantContactNo": "+65 63113622",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": " GROHE SPA",
+          "TradeName": " GROHE",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "124",
+          "UnitNo": "#01-06",
+          "PropID": "12",
+          "TenantID": "316",
+          "TenantContactNo": "+65 62357725",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "NamNam GO!",
+          "TradeName": "NamNam GO!",
+          "SmallImage": "NamNam_Go.jpg"
+        },
+        {
+          "UnitID": "314",
+          "UnitNo": "#01-07/11",
+          "PropID": "12",
+          "TenantID": "253",
+          "TenantContactNo": "+65 62380912",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Nike",
+          "TradeName": "Nike",
+          "SmallImage": "Nike.jpg"
+        },
+        {
+          "UnitID": "121",
+          "UnitNo": "#01-12",
+          "PropID": "12",
+          "TenantID": "326",
+          "TenantContactNo": "+65 67372422",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Mui Kee Congee",
+          "TradeName": "Mui Kee Congee",
+          "SmallImage": "Mui_Kee_Congee.jpg"
+        },
+        {
+          "UnitID": "322",
+          "UnitNo": "#01-13",
+          "PropID": "12",
+          "TenantID": "259",
+          "TenantContactNo": "+65 67356656",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "La Strada",
+          "TradeName": "La Strada",
+          "SmallImage": "La_Strada.jpg"
+        },
+        {
+          "UnitID": "318",
+          "UnitNo": "#01-14",
+          "PropID": "12",
+          "TenantID": "232",
+          "TenantContactNo": "+65 67337763",
+          "TenantFaxNo": "67334134",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Bistro Du Vin",
+          "TradeName": "Bistro Du Vin",
+          "SmallImage": "Bistro_Du_Vin.jpg"
+        },
+        {
+          "UnitID": "324",
+          "UnitNo": "#01-15",
+          "PropID": "12",
+          "TenantID": "223",
+          "TenantContactNo": "+65 68365155",
+          "TenantFaxNo": "+65 68365755",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Shabu Shabu Gen",
+          "TradeName": "Shabu Shabu Gen",
+          "SmallImage": "Shabu_Shabu_Gen.jpg"
+        },
+        {
+          "UnitID": "323",
+          "UnitNo": "#01-16/17/18 & #02-14/15/16 ",
+          "PropID": "12",
+          "TenantID": "260",
+          "TenantContactNo": "+65 67332225",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Les Amis ",
+          "TradeName": "Les Amis",
+          "SmallImage": "Les_Amis.jpg"
+        },
+        {
+          "UnitID": "316",
+          "UnitNo": "#01-19",
+          "PropID": "12",
+          "TenantID": "244",
+          "TenantContactNo": "+65 63338015",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Aoki Restaurant",
+          "TradeName": "Aoki Restaurant",
+          "SmallImage": "Aoki_Restaurant.jpg"
+        },
+        {
+          "UnitID": "281",
+          "UnitNo": "#02-01 & #02-26",
+          "PropID": "12",
+          "TenantID": "275",
+          "TenantContactNo": "+65 67331111",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Mango",
+          "TradeName": "Mango",
+          "SmallImage": "Mango.jpg"
+        },
+        {
+          "UnitID": "133",
+          "UnitNo": "#02-04",
+          "PropID": "12",
+          "TenantID": "323",
+          "TenantContactNo": "+65 63113622",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": " GROHE SPA",
+          "TradeName": " GROHE",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "328",
+          "UnitNo": "#02-05",
+          "PropID": "12",
+          "TenantID": "269",
+          "TenantContactNo": "+65 67334485",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "FRAISE",
+          "TradeName": "FRAISE",
+          "SmallImage": "FRAISE.jpg"
+        },
+        {
+          "UnitID": "315",
+          "UnitNo": "#02-06",
+          "PropID": "12",
+          "TenantID": "267",
+          "TenantContactNo": "+65 68369168",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "SK-II Boutique Spa by Senze Salus",
+          "TradeName": "SK-II Boutique Spa by Senze Salus",
+          "SmallImage": "SK-II-Boutique-Spa.jpg"
+        },
+        {
+          "UnitID": "313",
+          "UnitNo": "#02-10/11",
+          "PropID": "12",
+          "TenantID": "271",
+          "TenantContactNo": "+65 67378336",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "La Tapería",
+          "TradeName": "La Tapería",
+          "SmallImage": "La_Tapeia.jpg"
+        },
+        {
+          "UnitID": "282",
+          "UnitNo": "#02-12/13",
+          "PropID": "12",
+          "TenantID": "320",
+          "TenantContactNo": "+65 62357725",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Tarte",
+          "TradeName": "Tarte",
+          "SmallImage": "Tarte.jpg"
+        },
+        {
+          "UnitID": "319",
+          "UnitNo": "#02-18",
+          "PropID": "12",
+          "TenantID": "321",
+          "TenantContactNo": "+65 67322886",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "La Taperia Wine & Tapas",
+          "TradeName": "La Taperia Wine & Tapas",
+          "SmallImage": "La_Tapeia.jpg"
+        },
+        {
+          "UnitID": "336",
+          "UnitNo": "#02-19/20",
+          "PropID": "12",
+          "TenantID": "325",
+          "TenantContactNo": "+65 67322165",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "JINJO",
+          "TradeName": "JINJO",
+          "SmallImage": "JinJo.jpg"
+        },
+        {
+          "UnitID": "138",
+          "UnitNo": "#02-21/22",
+          "PropID": "12",
+          "TenantID": "308",
+          "TenantContactNo": "+65 67329943",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Face-Match Optical",
+          "TradeName": "Face-Match Optical",
+          "SmallImage": "Face_Match.jpg"
+        },
+        {
+          "UnitID": "317",
+          "UnitNo": "#02-23",
+          "PropID": "12",
+          "TenantID": "255",
+          "TenantContactNo": "+65 67377617 | +65 68381811",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Atelier Hair and Beauty",
+          "TradeName": "Atelier Hair and Beauty",
+          "SmallImage": "Atelier_Hair_And_Beauty.jpg"
+        },
+        {
+          "UnitID": "134",
+          "UnitNo": "#02-24/25",
+          "PropID": "12",
+          "TenantID": "276",
+          "TenantContactNo": "+65 68369495",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Dreamweave & Other Stories",
+          "TradeName": "Dreamweave & Other Stories",
+          "SmallImage": "Dreamweave.jpg"
+        },
+        {
+          "UnitID": "135",
+          "UnitNo": "#03-01 & #03-33",
+          "PropID": "12",
+          "TenantID": "272",
+          "TenantContactNo": "+65 67331111",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Isetan (Shaw Centre)",
+          "TradeName": "Isetan",
+          "SmallImage": "Isetan.jpg"
+        },
+        {
+          "UnitID": "142",
+          "UnitNo": "#03-02",
+          "PropID": "12",
+          "TenantID": "328",
+          "TenantContactNo": "+65 63652150",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Samatha Thavasa Pop-Up Outlet ",
+          "TradeName": "Samatha Thavasa Pop-Up Outlet ",
+          "SmallImage": "Samantha_Thavasa_PteLtd.jpg"
+        },
+        {
+          "UnitID": "136",
+          "UnitNo": "#03-03",
+          "PropID": "12",
+          "TenantID": "273",
+          "TenantContactNo": "+65 62359911",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Centre for Cosmetic Rejuvenation & Surgery",
+          "TradeName": "Centre for Cosmetic Rejuvenation & Surgery",
+          "SmallImage": "Centre_for_Cosmetic.jpg"
+        },
+        {
+          "UnitID": "137",
+          "UnitNo": "#03-03",
+          "PropID": "12",
+          "TenantID": "270",
+          "TenantContactNo": "+65 62350728",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Centre for Beauty & Image Consulting",
+          "TradeName": "Centre for Beauty & Image Consulting",
+          "SmallImage": "Centre_for_Beauty_Image_Consulting.jpg"
+        },
+        {
+          "UnitID": "140",
+          "UnitNo": "#03-04",
+          "PropID": "12",
+          "TenantID": "298",
+          "TenantContactNo": "1800 222 2121",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "UOB Shaw Centre",
+          "TradeName": "UOB Shaw Centre",
+          "SmallImage": "UOB_Shaw_Centre.jpg"
+        },
+        {
+          "UnitID": "141",
+          "UnitNo": "#03-04",
+          "PropID": "12",
+          "TenantID": "299",
+          "TenantContactNo": "1800 222 1881",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "UOB Wealth Banking Centre – Shaw Centre",
+          "TradeName": "UOB Wealth Banking Centre – Shaw Centre",
+          "SmallImage": "UOB_Wealth_Banking_Centre.jpg"
+        },
+        {
+          "UnitID": "144",
+          "UnitNo": "#03-05",
+          "PropID": "12",
+          "TenantID": "307",
+          "TenantContactNo": "+65 62357733",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Fox Studio",
+          "TradeName": "Fox Studio",
+          "SmallImage": "Fox_Studio.jpg"
+        },
+        {
+          "UnitID": "139",
+          "UnitNo": "#03-06",
+          "PropID": "12",
+          "TenantID": "274",
+          "TenantContactNo": "+65 67356753",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "LUSSO",
+          "TradeName": "LUSSO",
+          "SmallImage": "LUSSO.jpg"
+        },
+        {
+          "UnitID": "335",
+          "UnitNo": "#03-07/08/09/10/11",
+          "PropID": "12",
+          "TenantID": "327",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Singapore Lingnan Restaurant",
+          "TradeName": "Singapore Lingnan Restaurant",
+          "SmallImage": "Singapore_Lingnan_Restauran.jpg"
+        },
+        {
+          "UnitID": "143",
+          "UnitNo": "#03-12/13",
+          "PropID": "12",
+          "TenantID": "280",
+          "TenantContactNo": "+65 67333476",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Xi Yan Shaw",
+          "TradeName": "Xi Yan Shaw",
+          "SmallImage": "Xi_Yan_Shaw.jpg"
+        },
+        {
+          "UnitID": "145",
+          "UnitNo": "#03-14/15",
+          "PropID": "12",
+          "TenantID": "283",
+          "TenantContactNo": "+65 62352331",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "I Want My Noodle",
+          "TradeName": "I Want My Noodle",
+          "SmallImage": "I_Want_My_Noodle.jpg"
+        },
+        {
+          "UnitID": "146",
+          "UnitNo": "#03-16/18",
+          "PropID": "12",
+          "TenantID": "143",
+          "TenantContactNo": "+65 68847337 | +65 62352235",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "The Ship Restaurant & Bar Pte Ltd",
+          "TradeName": "The Ship Restaurant & Bar Pte Ltd",
+          "SmallImage": "The_Ship_Res_And_Bar.jpg"
+        },
+        {
+          "UnitID": "149",
+          "UnitNo": "#03-19",
+          "PropID": "12",
+          "TenantID": "168",
+          "TenantContactNo": "+65 67339788",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Gee Wee Jewellery",
+          "TradeName": "Gee Wee Jewellery",
+          "SmallImage": "Gee_Wee_Jewellery.jpg"
+        },
+        {
+          "UnitID": "156",
+          "UnitNo": "#03-21",
+          "PropID": "12",
+          "TenantContactNo": "+65 98983195",
+          "OccupancyStatus": "V",
+          "Status": "A"
+        },
+        {
+          "UnitID": "161",
+          "UnitNo": "#03-22",
+          "PropID": "12",
+          "TenantID": "278",
+          "TenantContactNo": "+65 64630555 | +65 64661555",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Footworks",
+          "TradeName": "Footworks",
+          "SmallImage": "Footworks.jpg"
+        },
+        {
+          "UnitID": "333",
+          "UnitNo": "#03-23",
+          "PropID": "12",
+          "TenantContactNo": "+65 62358722",
+          "OccupancyStatus": "V",
+          "Status": "A"
+        },
+        {
+          "UnitID": "152",
+          "UnitNo": "#03-24",
+          "PropID": "12",
+          "TenantID": "318",
+          "TenantContactNo": "+65 97934409 | +65 92708473",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Petite Fleur",
+          "TradeName": "Petite Fleur SG Pte Ltd",
+          "SmallImage": "Petite_Fleur.jpg"
+        },
+        {
+          "UnitID": "277",
+          "UnitNo": "#03-25",
+          "PropID": "12",
+          "TenantID": "277",
+          "TenantContactNo": "+65 67377822",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Nila Aromatherapy Bar",
+          "TradeName": "Nila Aromatherapy Bar",
+          "SmallImage": "Nila_Aromatherapy_Bar.jpg"
+        },
+        {
+          "UnitID": "239",
+          "UnitNo": "#03-26",
+          "PropID": "12",
+          "TenantID": "132",
+          "TenantContactNo": "+65 67375086",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "The Little Orchard Pte Ltd",
+          "TradeName": "The Little Orchard Pte Ltd",
+          "SmallImage": "The-Little-Orchard.jpg"
+        },
+        {
+          "UnitID": "157",
+          "UnitNo": "#03-27",
+          "PropID": "12",
+          "TenantID": "322",
+          "TenantContactNo": "+65 67321413",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Little Sweetheart Baby Gift Boutique",
+          "TradeName": "Little Sweetheart Baby Gift Boutique ",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "153",
+          "UnitNo": "#03-28",
+          "PropID": "12",
+          "TenantID": "268",
+          "TenantContactNo": "+65 62358661",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "EHA SKINCARE",
+          "TradeName": "EHA SKINCARE",
+          "SmallImage": "EHA_Skincare.jpg"
+        },
+        {
+          "UnitID": "302",
+          "UnitNo": "#03-29",
+          "PropID": "12",
+          "TenantID": "284",
+          "TenantContactNo": "+65 67878678",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Pebble Skin Aesthetique Pte Ltd",
+          "TradeName": "Pebble Skin Aesthetique Pte Ltd",
+          "SmallImage": "Pebble_Skin_Aesthetics.jpg"
+        },
+        {
+          "UnitID": "154",
+          "UnitNo": "#03-30/31",
+          "PropID": "12",
+          "TenantID": "317",
+          "TenantContactNo": "+65 64109678",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "CMYK Lifestyle Pte Ltd",
+          "TradeName": "CMYK Lifestyle Pte Ltd",
+          "SmallImage": "Cmyk.jpg"
+        },
+        {
+          "UnitID": "155",
+          "UnitNo": "#03-32",
+          "PropID": "12",
+          "TenantID": "287",
+          "TenantContactNo": "+65 62350265",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Seasons Time Pte Ltd",
+          "TradeName": "Seasons Time Pte Ltd"
+        },
+        {
+          "UnitID": "253",
+          "UnitNo": "#04-02",
+          "PropID": "12",
+          "TenantID": "315",
+          "TenantContactNo": "+65 6235 4566",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "The X’ Cut",
+          "TradeName": "The X’ Cut",
+          "SmallImage": "the_x_cut.jpg"
+        },
+        {
+          "UnitID": "255",
+          "UnitNo": "#04-03",
+          "PropID": "12",
+          "TenantID": "266",
+          "TenantContactNo": "+65 67357824",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Pet Lovers Centre",
+          "TradeName": "Pet Lovers Centre",
+          "SmallImage": "Pet_Lovers_Centre.jpg"
+        },
+        {
+          "UnitID": "173",
+          "UnitNo": "#04-07/08",
+          "PropID": "12",
+          "TenantID": "289",
+          "TenantContactNo": "+65 68380122",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Raffles Chinese Medicine",
+          "TradeName": "Raffles Chinese Medicine",
+          "SmallImage": "Raffles_Chinese_Medicine.jpg"
+        },
+        {
+          "UnitID": "174",
+          "UnitNo": "#04-09/14",
+          "PropID": "12",
+          "TenantID": "286",
+          "TenantContactNo": "+65 68380080",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Raffles Medical",
+          "TradeName": "Raffles Medical",
+          "SmallImage": "Raffles_Medical.jpg"
+        },
+        {
+          "UnitID": "329",
+          "UnitNo": "#04-09/14",
+          "PropID": "12",
+          "TenantID": "290",
+          "TenantContactNo": "+65 68380080",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Raffles Health Screeners ",
+          "TradeName": "Raffles Health Screeners ",
+          "SmallImage": "Raffles_Health_Screeners.jpg"
+        },
+        {
+          "UnitID": "330",
+          "UnitNo": "#04-09/14",
+          "PropID": "12",
+          "TenantID": "291",
+          "TenantContactNo": "+65 68380080",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Raffles Dental ",
+          "TradeName": "Raffles Dental ",
+          "SmallImage": "Raffles_Dental.jpg"
+        },
+        {
+          "UnitID": "179",
+          "UnitNo": "#04-18",
+          "PropID": "12",
+          "TenantID": "263",
+          "TenantContactNo": "+65 66352441",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Seasons Nail Bar",
+          "TradeName": "Seasons Nail Bar",
+          "SmallImage": "Seasons_Nail_Bar.jpg"
+        },
+        {
+          "UnitID": "334",
+          "UnitNo": "#04-20/21",
+          "PropID": "12",
+          "TenantID": "310",
+          "TenantContactNo": "+65 90189212",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "8 Korean BBQ",
+          "TradeName": "8 Korean BBQ",
+          "SmallImage": "8_Korean_BBQ.jpg"
+        },
+        {
+          "UnitID": "182",
+          "UnitNo": "#04-22/23",
+          "PropID": "12",
+          "TenantID": "285",
+          "TenantContactNo": "+65 62352547",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "IPPUDO SG",
+          "TradeName": "IPPUDO SG",
+          "SmallImage": "IPPUDO_SG.jpg"
+        },
+        {
+          "UnitID": "183",
+          "UnitNo": "#04-23",
+          "PropID": "12",
+          "TenantID": "297",
+          "TenantContactNo": " +65 62352547",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Bar IPPUDO",
+          "TradeName": "Bar IPPUDO",
+          "SmallImage": "IPPUDO_BAR.jpg"
+        },
+        {
+          "UnitID": "215",
+          "UnitNo": "#05-01/11",
+          "PropID": "12",
+          "TenantID": "288",
+          "TenantContactNo": "+65 68380100",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Raffles Specialists",
+          "TradeName": "Raffles Specialists",
+          "SmallImage": "Raffles_Specialists.jpg"
+        },
+        {
+          "UnitID": "231",
+          "UnitNo": "#27-00 & #28-00",
+          "PropID": "12",
+          "TenantContactNo": "+65 67373383",
+          "OccupancyStatus": "V",
+          "Status": "A"
+        },
+        {
+          "UnitID": "321",
+          "UnitNo": "#B1-01",
+          "PropID": "12",
+          "TenantID": "258",
+          "TenantContactNo": "+65 62350995",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Food Republic",
+          "TradeName": "Food Republic",
+          "SmallImage": "Food_Republic.jpg"
+        },
+        {
+          "UnitID": "285",
+          "UnitNo": "Car Park",
+          "PropID": "12",
+          "TenantID": "224",
+          "TenantContactNo": "+65 63347773 | +65 62500046",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Metro Parking (S) Pte Ltd",
+          "TradeName": "Metro Parking",
+          "SmallImage": "Metro_Parking.jpg"
+        },
+        {
+          "UnitID": "325",
+          "UnitNo": "Level 1",
+          "PropID": "12",
+          "TenantID": "257",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "DBS ATM",
+          "TradeName": "DBS ATM",
+          "SmallImage": "DBS_logo.jpg"
+        },
+        {
+          "UnitID": "326",
+          "UnitNo": "Level 1",
+          "PropID": "12",
+          "TenantID": "261",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "OCBC ATM",
+          "TradeName": "OCBC ATM",
+          "SmallImage": "OCBC.jpg"
+        },
+        {
+          "UnitID": "327",
+          "UnitNo": "Level 1",
+          "PropID": "12",
+          "TenantID": "265",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "UOB ATM",
+          "TradeName": "UOB ATM",
+          "SmallImage": "UOB.jpg"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "PropName": "Shaw House",
+      "PropType": "Commercial",
+      "Description": {
+        "PropDescShort": "A 21-storey office building with a 6-storey retail/ entertainment complex.",
+        "PropDescLong": "<div class='box'> <p> Shaw House is located prominently at the intersection of Orchard Road with Scotts Road and Paterson Road. This strategic intersection is sited at the heart of the Orchard Road corridor and is linked by underpasses directly to Orchard MRT Station and Wheelock Place. Public transport is readily available along the main thoroughfares of Orchard Road with Scotts Road and Paterson Road. </p><p> Isetan, an exquisite Japanese departmental store is the anchor tenant for the retail complex whilst Shaw's flagship cinema, Lido Cineplex promotes the best ambience for audiences to catch the latest blockbusters. Mouth-watering variety of fast-food outlets and delicious treats can also be found within the complex whilst a multi-national profile of tenants occupy the office building. </p></div>",
+        "LeasingAvailable": {
+          "title": "Offices Available For Lease",
+          "items": [
+            {
+              "unit": "#11-04",
+              "area": "1,027 sq.ft",
+              "combined": "3,056 sq.ft.",
+              "rental": "UNDER OFFER",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#11-05",
+              "area": "1,078 sq.ft",
+              "combined": "",
+              "rental": "UNDER OFFER",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#11-06",
+              "area": "951 sq.ft",
+              "combined": "",
+              "rental": "UNDER OFFER",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#13-01",
+              "area": "1,285 sq.ft",
+              "combined": "",
+              "rental": "S$8.50 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#13-02",
+              "area": "1,065 sq.ft.",
+              "combined": "",
+              "rental": "S$8.50 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#14-02",
+              "area": "1,065 sq.ft.",
+              "combined": "",
+              "rental": "S$8.50 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#14-10",
+              "area": "1,341 sq.ft.",
+              "combined": "",
+              "rental": "S$8.50 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#15-01",
+              "area": "1,148 sq.ft.",
+              "combined": "",
+              "rental": "S$8.50 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#15-07",
+              "area": "1,289 sq.ft.",
+              "combined": "",
+              "rental": "S$8.50 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#16-10",
+              "area": "1,367.03 sq.ft.",
+              "combined": "",
+              "rental": "S$8.50 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#18-07",
+              "area": "1,393 sq.ft.",
+              "combined": "",
+              "rental": "S$8.50 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#19-07",
+              "area": "1,308 sq.ft.",
+              "combined": "",
+              "rental": "S$8.50 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#21-02",
+              "area": "1,097.93 sq.ft",
+              "combined": "",
+              "rental": "S$8.50 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#21-03",
+              "area": "882.65 sq.ft",
+              "combined": "",
+              "rental": "S$8.50 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            },
+            {
+              "unit": "#21-08/09/10",
+              "area": "3,435.23 sq.ft.",
+              "combined": "",
+              "rental": "UNDER OFFER",
+              "remarks": [
+                {
+                  "item": "Bare Unit"
+                }
+              ]
+            }
+          ]
+        },
+        "Amenities": [
+          {
+            "item": "Located prominently in the heart of Orchard Road."
+          },
+          {
+            "item": "Within walking distance to the Orchard MRT Station via underpass link."
+          },
+          {
+            "item": "Public transport is readily available along the main thoroughfares of Orchard Road with Scotts Road and Paterson Road."
+          },
+          {
+            "item": "Ample car parking (please feel free to contact the car park operator, M/s Metro Parking at telephone number 6334 7773 ext 805, for further details)."
+          }
+        ],
+        "Contacts": [
+          {
+            "name": "Ms. Lee WenQiao",
+            "extension": "258",
+            "transaction": "100ms"
+          },
+          {
+            "name": "Ms. Joyce Tay",
+            "extension": "209",
+            "transaction": "200ms"
+          },
+          {
+            "name": "Mr. Marcus Tan",
+            "extension": "261",
+            "transaction": "300ms"
+          },
+          {
+            "name": "Ms. Katherine Tan",
+            "extension": "277",
+            "transaction": "400ms"
+          },
+          {
+            "name": "Ms. Florence Teo",
+            "extension": "254",
+            "transaction": "500ms"
+          }
+        ]
+      },
+      "PropPostalAdd": "350 Orchard Road, Singapore 238868",
+      "PropLocationMap": "mapShawHouse.png",
+      "PropLocationGoogleMap": {
+        "lat": "1.305746",
+        "lng": "103.831478"
+      },
+      "PropDirectBus": "7, 36, 105, 111, 123, 132, 174, 174E, 502, 521~<br>54, 124, 143, 162M, 162X, 162, 181M~<br>105, 190, 518, 605, 700, 700A, NR1, NR2, NR3~<br>43, 105, 124, 132, 143, 162, 162X, 518~<br>36, 124, 143, 162, 162X, 174, 174E, 518, 512, C1",
+      "PropDirectMrt": "Orchard",
+      "SmallImage": "ShawHse web pix.jpg",
+      "CompanyName": "Shaw House Pte Ltd",
+      "ShawMgtInd": "1",
+      "Status": "A",
+      "TenantList": [
+        {
+          "UnitID": "89",
+          "UnitNo": "#01-01",
+          "PropID": "13",
+          "TenantID": "64",
+          "TenantContactNo": "+65 67349309",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Gelatissimo Venture Pte Ltd",
+          "TradeName": "Gelatissimo",
+          "SmallImage": "gelatissimo.jpg"
+        },
+        {
+          "UnitID": "56",
+          "UnitNo": "#B1-00  to #04-00",
+          "PropID": "13",
+          "TenantID": "34",
+          "TenantContactNo": "+65 67331111",
+          "TenantFaxNo": "+65 67347083",
+          "TenantEmailAdd": "contactus@isetan.com.sg",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Isetan (B1 - 4th)",
+          "TradeName": "Isetan",
+          "TenantWebsiteURL": "http://www.isetan.com.sg",
+          "SmallImage": "Isetan.JPG"
+        },
+        {
+          "UnitID": "90",
+          "UnitNo": "#B1-02",
+          "PropID": "13",
+          "TenantID": "258",
+          "TenantContactNo": "+65 62350995",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Food Republic",
+          "TradeName": "Food Republic",
+          "SmallImage": "Food_Republic.jpg"
+        },
+        {
+          "UnitID": "85",
+          "UnitNo": "#B1-03",
+          "PropID": "13",
+          "TenantID": "292",
+          "TenantContactNo": "+65 62355354",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Toast Box",
+          "TradeName": "Toast Box",
+          "SmallImage": "Toast_Box.jpg"
+        },
+        {
+          "UnitID": "86",
+          "UnitNo": "#B1-04/05",
+          "PropID": "13",
+          "TenantID": "293",
+          "TenantContactNo": "+65 68364644",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Sanpoutei Ramen",
+          "TradeName": "Sanpoutei Ramen",
+          "SmallImage": "Sanpoutei_Ramen.jpg"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "PropName": "Shaw Corner",
+      "PropType": "Commercial",
+      "Description": {
+        "PropDescShort": "A 4-storey commercial building.",
+        "PropDescLong": "Shaw Corner is prominently located off the junction of Boon Teck Road with Balestier Road. Being centrally located within a densley populated residential locality, it is easily accessible to the major expressways linking to the city centre and airport.<br><br>The development is currently occupied by a student hostel and has shops on its ground floor. A basement level provides car park spaces for the entire development. Being located in one of Singapore's well-known food districts, a wide variety of local delectables can be readliy found in its immediate vicinity.<br><br>For leasing enquiries, please contact Real Estate Department at +65 6235 2077 (main line).<br><br>",
+        "Contacts": [
+          {
+            "name": "Ms. Lee WenQiao",
+            "extension": "258",
+            "transaction": "100ms"
+          },
+          {
+            "name": "Ms. Joyce Tay",
+            "extension": "209",
+            "transaction": "200ms"
+          },
+          {
+            "name": "Mr. Marcus Tan",
+            "extension": "261",
+            "transaction": "300ms"
+          },
+          {
+            "name": "Ms. Katherine Tan",
+            "extension": "277",
+            "transaction": "400ms"
+          },
+          {
+            "name": "Ms. Florence Teo",
+            "extension": "254",
+            "transaction": "500ms"
+          }
+        ]
+      },
+      "PropPostalAdd": "12 Boon Teck Road, Singapore 329586",
+      "PropLocationMap": "mapShawCorner.gif",
+      "PropLocationGoogleMap": {
+        "lat": "1.326195",
+        "lng": "103.849680"
+      },
+      "PropDirectBus": "21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186",
+      "PropDirectMrt": "Novena (nearest)",
+      "SmallImage": "Shaw Corner web pix.JPG",
+      "CompanyName": "Shaw Foundation Pte",
+      "ShawMgtInd": "1",
+      "Status": "A",
+      "TenantList": [
+        {
+          "UnitID": "71",
+          "UnitNo": "#01-01",
+          "PropID": "14",
+          "TenantID": "51",
+          "TenantContactNo": "+65 62592918",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Rehab Mart Pte Ltd",
+          "TradeName": "Rehab Mart",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "75",
+          "UnitNo": "#01-02",
+          "PropID": "14",
+          "TenantID": "206",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Innerspace Design Solutions",
+          "TradeName": "Innerspace Design Solutions",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "76",
+          "UnitNo": "#01-04 / 05",
+          "PropID": "14",
+          "TenantID": "53",
+          "TenantContactNo": "+65 62557950",
+          "TenantFaxNo": "+65 62511910",
+          "TenantEmailAdd": "clinic@comvet.com",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Companion Animal Surgery Pte Ltd",
+          "TradeName": "Companion Animal Surgery",
+          "TenantWebsiteURL": "http://comvet.com",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "74",
+          "UnitNo": "#02-01 to 06",
+          "PropID": "14",
+          "TenantID": "52",
+          "TenantContactNo": "+65 62518588",
+          "TenantFaxNo": "+65 63524668",
+          "TenantEmailAdd": "admin@bshostel.com",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Balestier Students' Hostel (S) Pte Ltd",
+          "TradeName": "Balestier Students' Hostel ",
+          "TenantWebsiteURL": "http://www.bshostel.com",
+          "SmallImage": ""
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "PropName": "Oriental Plaza",
+      "PropType": "Commercial",
+      "Description": {
+        "PropDescShort": "A 4-storey commercial building.",
+        "PropDescLong": "<div class='box'> <b>Oriental Plaza</b> is 4-storey commercial building strategically located at the junction of New Bridge Road with Kreta Ayer Road, within the heart of Chinatown. The development itself forms an ideal catchment area for shoppers as it is situated amongst a densely populated locality. <p> The development comprises primarily shops and offices with basement car parks. Outram MRT station is only a stone's throw away from the development and public transport is readily available along the main thoroughfare of New Bridge Road. </p></div>",
+        "LeasingAvailable": {
+          "title": "Premises Available For Lease",
+          "items": [
+            {
+              "unit": "#01-02",
+              "area": "4,921 sq.ft.",
+              "combined": "",
+              "rental": "S$5.80 psf/mth",
+              "remarks": [
+                {
+                  "item": "Available December 2018."
+                }
+              ]
+            }
+          ]
+        },
+        "Contacts": [
+          {
+            "name": "Ms. Lee WenQiao",
+            "extension": "258",
+            "transaction": "100ms"
+          },
+          {
+            "name": "Ms. Joyce Tay",
+            "extension": "209",
+            "transaction": "200ms"
+          },
+          {
+            "name": "Mr. Marcus Tan",
+            "extension": "261",
+            "transaction": "300ms"
+          },
+          {
+            "name": "Ms. Katherine Tan",
+            "extension": "277",
+            "transaction": "400ms"
+          },
+          {
+            "name": "Ms. Florence Teo",
+            "extension": "254",
+            "transaction": "500ms"
+          }
+        ]
+      },
+      "PropPostalAdd": "291 New Bridge Road, Singapore 088756",
+      "PropLocationMap": "orientalplaza.jpg",
+      "PropLocationGoogleMap": {
+        "lat": "1.281907",
+        "lng": "103.841870"
+      },
+      "SmallImage": "OrientalPlz web pix.jpg",
+      "CompanyName": "Shaw Brothers Ltd",
+      "ShawMgtInd": "1",
+      "Status": "A",
+      "TenantList": [
+        {
+          "UnitID": "307",
+          "UnitNo": "#01-01",
+          "PropID": "15",
+          "TenantID": "240",
+          "TenantContactNo": "+65 6225  6964",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Korea BBQ Pte Ltd",
+          "TradeName": "Korea BBQ Pte Ltd",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "308",
+          "UnitNo": "#01-02",
+          "PropID": "15",
+          "OccupancyDesc": "4,921 sq.ft. Available for lease",
+          "OccupancyStatus": "V",
+          "Status": "A"
+        },
+        {
+          "UnitID": "309",
+          "UnitNo": "#02-01",
+          "PropID": "15",
+          "OccupancyDesc": "310 sq.ft.  Available for lease.",
+          "OccupancyStatus": "V",
+          "Status": "A"
+        },
+        {
+          "UnitID": "310",
+          "UnitNo": "#02-03",
+          "PropID": "15",
+          "OccupancyDesc": "1,240 sq.ft.  Available for lease.",
+          "OccupancyStatus": "V",
+          "Status": "A"
+        },
+        {
+          "UnitID": "311",
+          "UnitNo": "#02-05-06/ 10-12 & #03-02/ 03",
+          "PropID": "15",
+          "TenantID": "234",
+          "TenantContactNo": "+65 6333 4724/+65 6333 4725",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Location Pte Ltd",
+          "TradeName": "Location Pte Ltd",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "106",
+          "UnitNo": "#02-07/ 08/ 09/ 13/ 14/ 15/ 16",
+          "PropID": "15",
+          "TenantID": "76",
+          "TenantContactNo": "+65 63254181",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Singapore Chinese Football Club",
+          "TradeName": "Singapore Chinese Football Club"
+        },
+        {
+          "UnitID": "262",
+          "UnitNo": "#03-01",
+          "PropID": "15",
+          "OccupancyDesc": "2,932 sq.ft. Available for lease. (Cinema Hall 2)",
+          "OccupancyStatus": "V",
+          "Status": "A"
+        },
+        {
+          "UnitID": "107",
+          "UnitNo": "#03-04/05",
+          "PropID": "15",
+          "TenantID": "77",
+          "TenantContactNo": "+65 62233187",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Oriential Tea House",
+          "TradeName": "Oriential Tea House"
+        },
+        {
+          "UnitID": "260",
+          "UnitNo": "#04-01",
+          "PropID": "15",
+          "TenantID": "205",
+          "TenantContactNo": "+65 6775 8562",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Club Bubbery Pte Ltd",
+          "TradeName": "BAR1 @ Club Bubbery",
+          "SmallImage": ""
+        },
+        {
+          "UnitID": "284",
+          "UnitNo": "B1 &  B2",
+          "PropID": "15",
+          "TenantID": "224",
+          "TenantContactNo": "+65 6334 7773",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Metro Parking (S) Pte Ltd",
+          "TradeName": "Metro Parking",
+          "SmallImage": "Metro_Parking.jpg"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "PropName": "Balestier Warehouse",
+      "PropType": "Commercial",
+      "Description": {
+        "PropDescShort": "A 9-storey warehouse development.",
+        "PropDescLong": "<div class='box'> The development is centrally located in the heart of Balestier Road with easy access to the major expressways linking to the city centre, airport and ports. <p> Unit sizes range from 2,300 sq.ft. to 7,600 sq.ft. and have a clear ceiling height of approximately 4m with a floor loading of 14.5 KN per sq.m. However, ground floor units have a generous ceiling height of approximately 4.8 m with a floor loading of 19.0 KN per sq.m. </p><p> All floors are served by 3 X 3,000 kg cargo lifts and 1 high speed passenger lift with a capacity for 15 persons. </p><p> The development has toilet facilities on every floor and is fully equipped with Fire Protection System. All floors are treated with high quality hardeners. </p><p> Car parks can be found around the development and its loading bays (3 parking lots for 40 footer containers) are equipped with 3 X 12,270 kg capacity docklevelers. </p></div>",
+        "LeasingAvailable": {
+          "title": "Premises Available For Lease",
+          "items": [
+            {
+              "unit": "#02-02",
+              "area": "4564.39 sq.ft.",
+              "combined": "",
+              "rental": "$1.40 psf/mth",
+              "remarks": [
+                {
+                  "item": "Available early November 2018"
+                }
+              ]
+            },
+            {
+              "unit": "#07-02",
+              "area": "4,855.34 sq.ft.",
+              "combined": "",
+              "rental": "$1.40 psf/mth",
+              "remarks": [
+                {
+                  "item": "Bare condition."
+                }
+              ]
+            }
+          ]
+        },
+        "Amenities": [
+          {
+            "item": "Car parking facilities"
+          },
+          {
+            "item": "Easy access to City/ CTE/ PIE"
+          }
+        ],
+        "Contacts": [
+          {
+            "name": "Ms. Lee WenQiao",
+            "extension": "258",
+            "transaction": "100ms"
+          },
+          {
+            "name": "Ms. Joyce Tay",
+            "extension": "209",
+            "transaction": "200ms"
+          },
+          {
+            "name": "Mr. Marcus Tan",
+            "extension": "261",
+            "transaction": "300ms"
+          },
+          {
+            "name": "Ms. Katherine Tan",
+            "extension": "277",
+            "transaction": "400ms"
+          },
+          {
+            "name": "Ms. Florence Teo",
+            "extension": "254",
+            "transaction": "500ms"
+          }
+        ]
+      },
+      "PropPostalAdd": "12A Jalan Ampas, Singapore 329526",
+      "PropLocationMap": "mapBalestierWarehouse.gif",
+      "PropLocationGoogleMap": {
+        "lat": "1.326530",
+        "lng": "103.852088"
+      },
+      "PropDirectBus": "21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186~<br>21, 130, 131, 145, 186",
+      "PropDirectMrt": "Novena (nearest)",
+      "SmallImage": "Balestier Whse web pix.JPG",
+      "CompanyName": "Shaw",
+      "ShawMgtInd": "0",
+      "Status": "A",
+      "TenantList": []
+    },
+    {
+      "id": "19",
+      "PropName": "North Bridge Road",
+      "PropType": "Commercial",
+      "Description": {
+        "PropDescShort": "A 2-storey shophouse with an attic",
+        "PropPostalAdd": "791/ 791A/ 791B North Bridge Road, Singapore",
+        "Contacts": [
+          {
+            "name": "Ms. Lee WenQiao",
+            "extension": "258",
+            "transaction": "100ms"
+          },
+          {
+            "name": "Ms. Joyce Tay",
+            "extension": "209",
+            "transaction": "200ms"
+          },
+          {
+            "name": "Mr. Marcus Tan",
+            "extension": "261",
+            "transaction": "300ms"
+          },
+          {
+            "name": "Ms. Katherine Tan",
+            "extension": "277",
+            "transaction": "400ms"
+          },
+          {
+            "name": "Ms. Florence Teo",
+            "extension": "254",
+            "transaction": "500ms"
+          }
+        ]
+      },
+      "PropLocationMap": "map791NBRpsd.gif",
+      "SmallImage": "IMG_1686.JPG",
+      "CompanyName": "Shaw & Sons (S) Pte Ltd",
+      "ShawMgtInd": "0",
+      "Status": "I",
+      "TenantList": [
+        {
+          "UnitID": "116",
+          "UnitNo": "791 A & B",
+          "PropID": "19",
+          "TenantID": "304",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Iprofits Dymamics Pte Ltd",
+          "TradeName": "Iprofits Dymamics Pte Ltd"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "PropName": "Mackenzie Road",
+      "PropType": "Commercial",
+      "Description": {
+        "PropDescShort": "A 4-storey shophouse."
+      },
+      "PropPostalAdd": "13 Mackenzie Road, Singapore 228676",
+      "PropLocationMap": "",
+      "PropLocationGoogleMap": {
+        "lat": "1.326544",
+        "lng": "103.852105"
+      },
+      "SmallImage": "210720105199.jpg",
+      "CompanyName": "Shaw Realty (Singaore) Pte Ltd",
+      "ShawMgtInd": "0",
+      "Status": "A",
+      "TenantList": [
+        {
+          "UnitID": "331",
+          "UnitNo": "13",
+          "PropID": "20",
+          "TenantID": "305",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "New Cameroon Seafood Restaurant",
+          "TradeName": "New Cameroon Seafood Restaurant"
+        },
+        {
+          "UnitID": "332",
+          "UnitNo": "13A/ B/ C",
+          "PropID": "20",
+          "TenantID": "306",
+          "OccupancyStatus": "N",
+          "Status": "A",
+          "TenantName": "Yves Strategic Management Pte Ltd",
+          "TradeName": "Yves Strategic Management Pte Ltd"
+        }
+      ]
+    }
+  ]
+}
