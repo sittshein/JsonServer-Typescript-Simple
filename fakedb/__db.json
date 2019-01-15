@@ -846,11 +846,7 @@
       "name": "Shaw Centre",
       "category": "Commercial",
       "details": {
-        "askingRental": [
-          {
-            "item": "Price on Application"
-          }
-        ],
+        "askingRental": "Price on Application",
         "amenities": [
           {
             "item": "Located prominently at the junction of Orchard Road, Scotts Road and Claymore Road."
